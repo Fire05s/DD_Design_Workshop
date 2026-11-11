@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34990773aec0fb04dbf2afcd9c7e958e, type: 3}
+  m_Name: Boss Boots
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Boss Boots
+  <AbilityDescription>k__BackingField: Reduce Dash Cooldown by 33%.
+  <FlavorText>k__BackingField: "The embroidery on these boots guide a bit of the
+    wearer\u2019s magic into enhancements of vitality, speed, and stamina."
+  <Icon>k__BackingField: {fileID: 21300000, guid: f4a695c74539d214b81c5b21bb1b6593, type: 3}
+  <Cost>k__BackingField: 750
+  <Health>k__BackingField: 500
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 2
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 20
+  <Scale>k__BackingField: 1
+  <LifeSteal>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldownModifier>k__BackingField: 0
+  <SecondaryCooldownModifier>k__BackingField: 0
+  <DashCooldownModifier>k__BackingField: -0.33
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 0}

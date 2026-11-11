@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6615d45207702a6419ef68974b3ef8a0, type: 3}
+  m_Name: 3rdTime'sTheCharm
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Third Time's the Charm
+  <AbilityDescription>k__BackingField: Upon dropping below 25% <color=#FF5D5A>Max
+    HP</color>, deal 25% more <color=#FF53FF>Damage</color> and gain 100 <color=#7373FF>Resistance</color>
+    for 7 seconds.
+  <FlavorText>k__BackingField: Cultivating your core takes hundreds of years to master,
+    but it brings the potential for even the strongest of Challengers to be felled
+    while weakened.
+  <Icon>k__BackingField: {fileID: 21300000, guid: 4a384788a2266974382490332e374f62, type: 3}
+  <Cost>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldown>k__BackingField: 0
+  <SecondaryCooldown>k__BackingField: 0
+  <DashCooldown>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 11400000, guid: 5ea6d3652ef23e54892f15b56c97546e, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6615d45207702a6419ef68974b3ef8a0, type: 3}
+  m_Name: Mystery Gauntlet
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Mystery Gauntlet
+  <AbilityDescription>k__BackingField: Each round, gain 750 <color=#FF5D5A>HP</color>,
+    5 <color=#57E86C>Regeneration</color>, 1 <color=#D6D654>Movespeed</color>, 10
+    <color=#FF53FF>Power</color>, 10 <color=#7373FF>Resistance</color>, or 1 <color=#54D7D7>Scale</color>.
+  <FlavorText>k__BackingField: "\u201CI think this gauntlet is broken?\u201D\n\n\u201CNah,
+    that's a feature.\u201D"
+  <Icon>k__BackingField: {fileID: 21300000, guid: c647b744176dbb949a9beaba0284f008, type: 3}
+  <Cost>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldown>k__BackingField: 0
+  <SecondaryCooldown>k__BackingField: 0
+  <DashCooldown>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 11400000, guid: 709a162822c79ae4ba4b0c670bcf45ec, type: 2}

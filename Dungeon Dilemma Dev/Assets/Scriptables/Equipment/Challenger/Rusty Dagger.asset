@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34990773aec0fb04dbf2afcd9c7e958e, type: 3}
+  m_Name: Rusty Dagger
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Rusty Dagger
+  <AbilityDescription>k__BackingField: Your Attacks now apply <color=#FF0000>Bleed</color>
+    (200 <color=#FF53FF>Damage</color> over 5 seconds) to your target(s).
+  <FlavorText>k__BackingField: "Who would have thought that the Adventurer\u2019s
+    Guild cheaping out on equipment could actually make it more effective?"
+  <Icon>k__BackingField: {fileID: 2108021996937177131, guid: 50291ded2fab9284fb49af26cdf31fb2, type: 3}
+  <Cost>k__BackingField: 700
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 20
+  <Resistance>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldownModifier>k__BackingField: 0
+  <SecondaryCooldownModifier>k__BackingField: 0
+  <DashCooldownModifier>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 11400000, guid: 8e5b776245104e945bf756148916764c, type: 2}

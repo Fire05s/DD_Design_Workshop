@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6615d45207702a6419ef68974b3ef8a0, type: 3}
+  m_Name: Mandatory Sale
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Mandatory Sale
+  <AbilityDescription>k__BackingField: 'All Items in your Shop are 20% cheaper.
+
+'
+  <FlavorText>k__BackingField: "\u201CHa! For you, Boss? Anything! As in, I\u2019m
+    taking anything if my shop is ransacked by those Challengers. There are no freebies,
+    not even for you.\u201D"
+  <Icon>k__BackingField: {fileID: -7748633227696785296, guid: e1fe5c22510232a46818f2c11ad01ad0, type: 3}
+  <Cost>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldown>k__BackingField: 0
+  <SecondaryCooldown>k__BackingField: 0
+  <DashCooldown>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 11400000, guid: 7e4abbef49841dc45ad1389feb29a2f3, type: 2}

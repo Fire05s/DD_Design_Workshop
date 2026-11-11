@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: ab803c2129584e04eb1d2e64b417a4f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8382857759080563878
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_0
+  - first:
+      213: 478676781397501433
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_1
+  - first:
+      213: 6792984203891722463
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_2
+  - first:
+      213: 4308069470235176151
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_3
+  - first:
+      213: -2728082598372088693
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_4
+  - first:
+      213: -4117880453488740130
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_5
+  - first:
+      213: 4219952109398699571
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_6
+  - first:
+      213: 8150721013380658510
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_7
+  - first:
+      213: 5191624257947117605
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_8
+  - first:
+      213: -1247476533349968590
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_9
+  - first:
+      213: -1053211798792211044
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_10
+  - first:
+      213: -5815040997777631170
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_11
+  - first:
+      213: 8838662667233166465
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_12
+  - first:
+      213: 6189583674947282087
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_13
+  - first:
+      213: 7867681310367399643
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_14
+  - first:
+      213: 4098866802384092807
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_15
+  - first:
+      213: 5445442784411358604
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_16
+  - first:
+      213: -5795563453207496564
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_17
+  - first:
+      213: -3369025728890306557
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_18
+  - first:
+      213: 8853767663415134275
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_19
+  - first:
+      213: 3935255048437987549
+    second: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4cf94b7b4e55470800000000000000
+      internalID: 8382857759080563878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5ec6d1ff994a600800000000000000
+      internalID: 478676781397501433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84ec58427854e50800000000000000
+      internalID: 6792984203891722463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dca219ab5659cb30800000000000000
+      internalID: 4308069470235176151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b846b1ea457e32ad0800000000000000
+      internalID: -2728082598372088693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed877468b895ad6c0800000000000000
+      internalID: -4117880453488740130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eaed1d518409a30800000000000000
+      internalID: 4219952109398699571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45bdd9c39d2d1170800000000000000
+      internalID: 8150721013380658510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5282d3691ca5c0840800000000000000
+      internalID: 5191624257947117605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2351a0cc3b210bee0800000000000000
+      internalID: -1247476533349968590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c957dbbf27d3261f0800000000000000
+      internalID: -1053211798792211044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38912d9503dc4fa0800000000000000
+      internalID: -5815040997777631170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18480f9dddc39aa70800000000000000
+      internalID: 8838662667233166465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a42accfe81d5e550800000000000000
+      internalID: 6189583674947282087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdebd6e877e9f2d60800000000000000
+      internalID: 7867681310367399643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ebeb9d3a912e830800000000000000
+      internalID: 4098866802384092807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c859d897c59129b40800000000000000
+      internalID: 5445442784411358604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88b45adeb5029fa0800000000000000
+      internalID: -5795563453207496564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300875e03f0de31d0800000000000000
+      internalID: -3369025728890306557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34803b5d7c6eeda70800000000000000
+      internalID: 8853767663415134275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd875bedd95dc9630800000000000000
+      internalID: 3935255048437987549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed36e33ceb818e146b42d45888132a9c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_0: 8382857759080563878
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_1: 478676781397501433
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_10: -1053211798792211044
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_11: -5815040997777631170
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_12: 8838662667233166465
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_13: 6189583674947282087
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_14: 7867681310367399643
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_15: 4098866802384092807
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_16: 5445442784411358604
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_17: -5795563453207496564
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_18: -3369025728890306557
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_19: 8853767663415134275
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_2: 6792984203891722463
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_20: 3935255048437987549
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_3: 4308069470235176151
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_4: -2728082598372088693
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_5: -4117880453488740130
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_6: 4219952109398699571
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_7: 8150721013380658510
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_8: 5191624257947117605
+      Boss_Yew_Phase_2_Attack_2_Frame_Accurate-Sheet_9: -1247476533349968590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

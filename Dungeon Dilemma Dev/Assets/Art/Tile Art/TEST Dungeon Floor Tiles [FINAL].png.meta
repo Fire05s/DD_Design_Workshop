@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: fb808725e0127a44b9ac8ed85d73887e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7198887081246698645
+    second: Dungeon Floor Tiles [FINAL]_0
+  - first:
+      213: 5578111918325435407
+    second: Dungeon Floor Tiles [FINAL]_1
+  - first:
+      213: 6738812189606287616
+    second: Dungeon Floor Tiles [FINAL]_2
+  - first:
+      213: -4075774019627866353
+    second: Dungeon Floor Tiles [FINAL]_3
+  - first:
+      213: 5887938561294532191
+    second: Dungeon Floor Tiles [FINAL]_4
+  - first:
+      213: 4912700349925798214
+    second: Dungeon Floor Tiles [FINAL]_5
+  - first:
+      213: 6531716263290373834
+    second: Dungeon Floor Tiles [FINAL]_6
+  - first:
+      213: 7319745685818716984
+    second: Dungeon Floor Tiles [FINAL]_7
+  - first:
+      213: 8245168650967123143
+    second: Dungeon Floor Tiles [FINAL]_8
+  - first:
+      213: 7805455527840526970
+    second: Dungeon Floor Tiles [FINAL]_9
+  - first:
+      213: -5621726068278187419
+    second: Dungeon Floor Tiles [FINAL]_10
+  - first:
+      213: -5875225119506937946
+    second: Dungeon Floor Tiles [FINAL]_11
+  - first:
+      213: -7196316401400268626
+    second: Dungeon Floor Tiles [FINAL]_12
+  - first:
+      213: -7202040407512284576
+    second: Dungeon Floor Tiles [FINAL]_13
+  - first:
+      213: -2229023821460274582
+    second: Dungeon Floor Tiles [FINAL]_14
+  - first:
+      213: -3451897615377474320
+    second: Dungeon Floor Tiles [FINAL]_15
+  - first:
+      213: -6165733683693143157
+    second: Dungeon Floor Tiles [FINAL]_16
+  - first:
+      213: 4237985044365275659
+    second: Dungeon Floor Tiles [FINAL]_17
+  - first:
+      213: -8177022266200651484
+    second: Dungeon Floor Tiles [FINAL]_18
+  - first:
+      213: -5258476059449739453
+    second: Dungeon Floor Tiles [FINAL]_19
+  - first:
+      213: -6240991899119434889
+    second: Dungeon Floor Tiles [FINAL]_20
+  - first:
+      213: 6029668000109364876
+    second: Dungeon Floor Tiles [FINAL]_21
+  - first:
+      213: -653629992017562708
+    second: Dungeon Floor Tiles [FINAL]_22
+  - first:
+      213: -8366353352570772365
+    second: Dungeon Floor Tiles [FINAL]_23
+  - first:
+      213: 4781244933840811960
+    second: Dungeon Floor Tiles [FINAL]_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b635428475a681c90800000000000000
+      internalID: -7198887081246698645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c09215c3f696d40800000000000000
+      internalID: 5578111918325435407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0091e819bf1158d50800000000000000
+      internalID: 6738812189606287616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a05f9f11ff67c0800000000000000
+      internalID: -4075774019627866353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ef8450de826b150800000000000000
+      internalID: 5887938561294532191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b34d80fa6d2440800000000000000
+      internalID: 4912700349925798214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6801fb55155aa50800000000000000
+      internalID: 6531716263290373834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8333c696be5f49560800000000000000
+      internalID: 7319745685818716984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4051a0439bc6270800000000000000
+      internalID: 8245168650967123143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a723b0f827c825c60800000000000000
+      internalID: 7805455527840526970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa9b31ded9bf1b0800000000000000
+      internalID: -5621726068278187419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a74650d1e1077ea0800000000000000
+      internalID: -5875225119506937946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea838335c5c812c90800000000000000
+      internalID: -7196316401400268626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062883c48663d0c90800000000000000
+      internalID: -7202040407512284576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a620afde4aae011e0800000000000000
+      internalID: -2229023821460274582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc586268656810d0800000000000000
+      internalID: -3451897615377474320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b3fc3d1e9ee6aa0800000000000000
+      internalID: -6165733683693143157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b027fcca1f850da30800000000000000
+      internalID: 4237985044365275659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42986a69291658e80800000000000000
+      internalID: -8177022266200651484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3473a9072e32607b0800000000000000
+      internalID: -5258476059449739453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77345e61fea8369a0800000000000000
+      internalID: -6240991899119434889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c860f0c791fada350800000000000000
+      internalID: 6029668000109364876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3704f3cf6dde6f0800000000000000
+      internalID: -653629992017562708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374ee92e3fdb4eb80800000000000000
+      internalID: -8366353352570772365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Floor Tiles [FINAL]_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7b7b96fe46a5240800000000000000
+      internalID: 4781244933840811960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dungeon Floor Tiles [FINAL]_0: -7198887081246698645
+      Dungeon Floor Tiles [FINAL]_1: 5578111918325435407
+      Dungeon Floor Tiles [FINAL]_10: -5621726068278187419
+      Dungeon Floor Tiles [FINAL]_11: -5875225119506937946
+      Dungeon Floor Tiles [FINAL]_12: -7196316401400268626
+      Dungeon Floor Tiles [FINAL]_13: -7202040407512284576
+      Dungeon Floor Tiles [FINAL]_14: -2229023821460274582
+      Dungeon Floor Tiles [FINAL]_15: -3451897615377474320
+      Dungeon Floor Tiles [FINAL]_16: -6165733683693143157
+      Dungeon Floor Tiles [FINAL]_17: 4237985044365275659
+      Dungeon Floor Tiles [FINAL]_18: -8177022266200651484
+      Dungeon Floor Tiles [FINAL]_19: -5258476059449739453
+      Dungeon Floor Tiles [FINAL]_2: 6738812189606287616
+      Dungeon Floor Tiles [FINAL]_20: -6240991899119434889
+      Dungeon Floor Tiles [FINAL]_21: 6029668000109364876
+      Dungeon Floor Tiles [FINAL]_22: -653629992017562708
+      Dungeon Floor Tiles [FINAL]_23: -8366353352570772365
+      Dungeon Floor Tiles [FINAL]_24: 4781244933840811960
+      Dungeon Floor Tiles [FINAL]_3: -4075774019627866353
+      Dungeon Floor Tiles [FINAL]_4: 5887938561294532191
+      Dungeon Floor Tiles [FINAL]_5: 4912700349925798214
+      Dungeon Floor Tiles [FINAL]_6: 6531716263290373834
+      Dungeon Floor Tiles [FINAL]_7: 7319745685818716984
+      Dungeon Floor Tiles [FINAL]_8: 8245168650967123143
+      Dungeon Floor Tiles [FINAL]_9: 7805455527840526970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

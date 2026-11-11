@@ -1,0 +1,655 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ac2e59ec50867458fa45964a218963, type: 3}
+  m_Name: NetworkAssets
+  m_EditorClassIdentifier: 
+  autoGenerate: 0
+  folder: {fileID: 102900000, guid: 284f800412eab77428f4816d414860a7, type: 3}
+  _enabledTypeNames:
+  - UnityEngine.AnimationClip, UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.Equipment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  assets:
+  - {fileID: 11400000, guid: 02d13ae713e3b4549a39aa38123af847, type: 2}
+  - {fileID: 11400000, guid: df89e6514ca03824382fac6bf4661887, type: 2}
+  - {fileID: 11400000, guid: 3966fa68428cf2042a51951d0d7af997, type: 2}
+  - {fileID: 11400000, guid: 97cbfc0555a9ac54eb650f365c63af51, type: 2}
+  - {fileID: 11400000, guid: 3cceec7e7f9a6bf4a8551b2cc8b81971, type: 2}
+  - {fileID: 8300000, guid: c2ddd54db55a84d0ea8588b1c424ad8d, type: 3}
+  - {fileID: 8300000, guid: 2fd73ed4685c845799686dcbab068a8f, type: 3}
+  - {fileID: 8300000, guid: 819d10ef11ab36349abe07bfda5bf16f, type: 3}
+  - {fileID: 8300000, guid: be6b12aceec10b34d8a748e0e857fe25, type: 3}
+  - {fileID: 8300000, guid: 3a6e9e181b5a15240a83753d0b647657, type: 3}
+  - {fileID: 8300000, guid: 3beaef2ecb7f9b646a1f2289e890a74d, type: 3}
+  - {fileID: 8300000, guid: baf9c5e364b406b44834ff2414fd09ed, type: 3}
+  - {fileID: 8300000, guid: cf7cb147ede5848c7a4b36cf52a074d6, type: 3}
+  - {fileID: 8300000, guid: a2782e0695d814f7cbc03f33a68ef50f, type: 3}
+  - {fileID: 8300000, guid: 31d940f5f37b8c14594c76b8367bd718, type: 3}
+  - {fileID: 8300000, guid: 547de12a1b53ca6498e570cf1f902b93, type: 3}
+  - {fileID: 8300000, guid: b9a80fa325bae46199e59fb25cd342eb, type: 3}
+  - {fileID: 8300000, guid: 52a8f98c079a72a49bcb8303bd300c74, type: 3}
+  - {fileID: 8300000, guid: d6e3faff924358844b9b5111257f1a52, type: 3}
+  - {fileID: 8300000, guid: 971ba8c5755f0c34e93904bf848651a8, type: 3}
+  - {fileID: 8300000, guid: dae04fc7680c840408f1020aa31ff11b, type: 3}
+  - {fileID: 8300000, guid: 3eaaa562a1602f14f8e6d52870e3456b, type: 3}
+  - {fileID: 8300000, guid: 97470576e30391a419fa6b5e65440a41, type: 3}
+  - {fileID: 8300000, guid: 19bd558b0deb0af499a6d190c1446793, type: 3}
+  - {fileID: 8300000, guid: c46bfffeb2c77f543806e23ea477215b, type: 3}
+  - {fileID: 8300000, guid: 6f418071d7e47a34c9ae145f8ac89e04, type: 3}
+  - {fileID: 8300000, guid: a04fe16173901d74eb83ad48aefff844, type: 3}
+  - {fileID: 8300000, guid: 3c934f892f98a064cbaf1f4b2049ccb8, type: 3}
+  - {fileID: 8300000, guid: e5786fef891ffcb40b1cc5aa0615fddf, type: 3}
+  - {fileID: 8300000, guid: 844fb3189be72634ebeb889822d11132, type: 3}
+  - {fileID: 8300000, guid: 2907c04f94107084abdc6797a0da2e48, type: 3}
+  - {fileID: 8300000, guid: 70ff8bdc41e6fb64aa0c37049ce37c0e, type: 3}
+  - {fileID: 8300000, guid: 18633d36a13ce5b4b822007c3cdebc75, type: 3}
+  - {fileID: 8300000, guid: 28143668eb9f42e499dd4d54e8d1be17, type: 3}
+  - {fileID: 8300000, guid: 4298efaa14e423145ae32ed17d74e232, type: 3}
+  - {fileID: 8300000, guid: 39087e691b8d5aa4da66acda704902a3, type: 3}
+  - {fileID: 8300000, guid: 8c0efeb54b516d24d905189dae0f8bb3, type: 3}
+  - {fileID: 11400000, guid: 0cb3ec0c89bffc64f8ba638069a8ed55, type: 2}
+  - {fileID: 11400000, guid: e427793356b27fd49b32b4cba0493346, type: 2}
+  - {fileID: 11400000, guid: ac37df842855a1c4ea728384cc893303, type: 2}
+  - {fileID: 11400000, guid: 1d6305112c0cc34428348331d988c716, type: 2}
+  - {fileID: 11400000, guid: 5878699250bfbe14cbba6462a34dd3c9, type: 2}
+  - {fileID: 11400000, guid: b87b5d04a6811cf44bc0479e452503f0, type: 2}
+  - {fileID: 11400000, guid: 015b8867a67a8f24d834154586991016, type: 2}
+  - {fileID: 11400000, guid: 3badd1f62c2e8f640b4fddfc7c6f9698, type: 2}
+  - {fileID: 11400000, guid: 2ea72e76a2539504bb5fab59e34e1ab6, type: 2}
+  - {fileID: 11400000, guid: 28368e1f0794e374abce9e20bd6a21e5, type: 2}
+  - {fileID: 11400000, guid: 89d760bb2a96a96498acc3ff9e5581cd, type: 2}
+  - {fileID: 11400000, guid: 088be8855ed2899469f746255cdc7910, type: 2}
+  - {fileID: 11400000, guid: 00c760e1e74f1204e8dc5461b63fbaf9, type: 2}
+  - {fileID: 11400000, guid: 2ea6c651b68998441901dbbd8bb70ca5, type: 2}
+  - {fileID: 11400000, guid: 93c9f28312c1a014197ccdb26406dbd2, type: 2}
+  - {fileID: 11400000, guid: f08155af2b49b8041986e61194395598, type: 2}
+  - {fileID: 11400000, guid: 9fb3cabbcad850445be347161cf0b9cf, type: 2}
+  - {fileID: 11400000, guid: 4b0c3ca9cd6188d408d44d6239f38569, type: 2}
+  - {fileID: 11400000, guid: 3dd856052e97f814b9e72cf0f13f834d, type: 2}
+  - {fileID: 11400000, guid: 43fa4ce8d5a128e47b74a9ff4ed03008, type: 2}
+  - {fileID: 11400000, guid: 2cf40485763c39941ac7f21159083507, type: 2}
+  - {fileID: 11400000, guid: b664ddeb390ab8e40bd516058eca7bc6, type: 2}
+  - {fileID: 11400000, guid: 1b790059d54d26a4288f9826f9f93e84, type: 2}
+  - {fileID: 11400000, guid: e98fd1d3767d80140a4da28480113050, type: 2}
+  - {fileID: 11400000, guid: f491811cebab07c41b4d8a8c0a9fbc39, type: 2}
+  - {fileID: 11400000, guid: 0cb3ec0c89bffc64f8ba638069a8ed55, type: 2}
+  - {fileID: 11400000, guid: 2c1aaa0a7dc6966488014e2eb9debfdf, type: 2}
+  - {fileID: 11400000, guid: 7a0469ba4b6ec454e8a5ecd27b173b59, type: 2}
+  - {fileID: 11400000, guid: ff7ebcaa21330b542a302b917b12958d, type: 2}
+  - {fileID: 11400000, guid: f8530ff2e69b4304587a1a4fb9fb5417, type: 2}
+  - {fileID: 11400000, guid: c0682793ca2eae542818c909844d2bde, type: 2}
+  - {fileID: 11400000, guid: aa4b7e7f82ae02048bd8adf4ce9b37ba, type: 2}
+  - {fileID: 11400000, guid: 58ba6f3a04745834a8f54eae2964e751, type: 2}
+  - {fileID: 11400000, guid: 72f789fb3c37b3e47b92d15223363b4b, type: 2}
+  - {fileID: 11400000, guid: a2cfa4a04ccd8544fb651a47923ee5cc, type: 2}
+  - {fileID: 11400000, guid: 4193503eada85a9408fd0bda98acb3f8, type: 2}
+  - {fileID: 11400000, guid: b7e68e4cb3164484cb34545650133542, type: 2}
+  - {fileID: 11400000, guid: 02f2b1cbf2c27b641bdf499d9437f1b1, type: 2}
+  - {fileID: 11400000, guid: 54c05312f88867d479c8f2cd0604da63, type: 2}
+  - {fileID: 11400000, guid: 1e826917efc4f6e4dab3504fdc123a1c, type: 2}
+  - {fileID: 11400000, guid: fd03b03480edc1047aacaa9d8044a2c3, type: 2}
+  - {fileID: 11400000, guid: 09bf262497f669c44a59478052ac1970, type: 2}
+  - {fileID: 11400000, guid: 7661a13b109e60744bea03f3d6b4abd4, type: 2}
+  - {fileID: 11400000, guid: a0ff5fa48bbd25647995402ab07c0018, type: 2}
+  - {fileID: 11400000, guid: e48af5815827ea84dae7c37e692249c3, type: 2}
+  - {fileID: 11400000, guid: eafa4e4ae2ccdd8479327416e9d81379, type: 2}
+  - {fileID: 11400000, guid: ad6aeb1f28e062941b6f3c3180507d1e, type: 2}
+  - {fileID: 11400000, guid: 5b6200e690d526d4f8eff80a1ebcd5a4, type: 2}
+  - {fileID: 11400000, guid: 1bffbd6a6206c5a43bc6d18a602d5496, type: 2}
+  - {fileID: 11400000, guid: 27c7bc33ac75d564ba38bfb0f7436e3b, type: 2}
+  - {fileID: 11400000, guid: 2659672d17c483742b7717f2f680f82f, type: 2}
+  - {fileID: 11400000, guid: 2c08b6d2557db5240932af03db4fadd2, type: 2}
+  - {fileID: 11400000, guid: 61ebaec057ec47f4bb8684976a7f4d87, type: 2}
+  - {fileID: 11400000, guid: 18da6f561fac91e4f9995690d0938e95, type: 2}
+  - {fileID: 11400000, guid: 5aeedcc8b65130b4985cabd90f49b659, type: 2}
+  - {fileID: 11400000, guid: e0f23addd10c75d4a9ebe87ed77fbc76, type: 2}
+  - {fileID: 11400000, guid: 24a7682c1d581374fa165e0adea8c7ea, type: 2}
+  - {fileID: 11400000, guid: 1e28ec5510669b44fb54178c73370f7b, type: 2}
+  - {fileID: 11400000, guid: acc7576fa97ff954d924d8d8c45b86b3, type: 2}
+  _availableTypeNames:
+  - UnityEngine.AnimationClip, UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - AIAttack, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - AIFlee, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - AIKnockback, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - AIMove, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Animator, UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEditor.Animations.AnimatorController, UnityEditor.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEditor.Animations.AnimatorState, UnityEditor.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEditor.Animations.AnimatorStateMachine, UnityEditor.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEditor.Animations.AnimatorStateTransition, UnityEditor.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEditor.Animations.AnimatorTransition, UnityEditor.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEditor.Animations.AnimatorTransitionBase, UnityEditor.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - AOEAttackState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - AOEProjectileAttackState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEditorInternal.AssemblyDefinitionAsset, UnityEditor.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - AttackBuffState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.AudioBehaviour, UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.AudioListener, UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Audio.AudioResource, UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.AudioSource, UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Avocado.AvocadoAnimatorEventHook, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Avocado.AvocadoEntryPoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.BackAlleyOffer, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.EventSystems.BaseInputModule, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.EventSystems.BaseRaycaster, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Behaviour, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.BladeSharpener, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.Bloom, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.BoxCollider, UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.BoxCollider2D, UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.Buildable, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - ItemReference.BuildableList, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - BuildingCamera, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.Button, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Camera, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Canvas, UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.CanvasGroup, UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.CanvasRenderer, UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.CanvasScaler, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Challenger, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - ChallengerDeathState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.ChallengerScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ChannelMixer, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ChromaticAberration, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Unity.Multiplayer.Center.NetcodeForGameObjectsExample.ClientAuthoritativeMovement,
+    Unity.Multiplayer.Center.NetcodeForGameObjectsExample, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - ClientNetworkAnimator, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Unity.Multiplayer.Center.NetcodeForGameObjectsExample.ClientNetworkTransform,
+    Unity.Multiplayer.Center.NetcodeForGameObjectsExample, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Unity.Multiplayer.Samples.Utilities.ClientAuthority.ClientNetworkTransform, Assembly-CSharp,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrLobby.CodeButton, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - NavMeshPlus.Extensions.CollectSources2d, NavMeshPlus, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Collider, UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Collider2D, UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ColorAdjustments, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ColorCurves, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ColorLookup, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Priestess.CombatManager, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Component, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.CompositeCollider2D, UnityEngine.Physics2DModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - PurrLobby.ConnectionStarter, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.ContentSizeFitter, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - DashState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.DepthOfField, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - DialogueData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Door, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - DungeonBoss, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PlayerLogic.BossLogic.DungeonBossBuildingController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.DungeonBossBuildingScreen, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.DungeonBossScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Enemy, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - EnhancedWindmill, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.Equipment, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.EquipmentExpert, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - ItemReference.EquipmentList, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.EventSystems.EventSystem, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - FallingBoulder, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.FilmGrain, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - FlamePillar, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Font, UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.Freerolls, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrLobby.FriendEntry, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrLobby.FriendsList, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrNet.Transports.GenericTransport, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.Graphic, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.GraphicRaycaster, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Grid, UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.GridLayout, UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.GridLayoutGroup, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEditor.GridPalette, UnityEditor.TilemapModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.Harvester, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - HauntedArmor, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - HealthHandler, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.HeroicHelmet, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.HighRollers, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.HorizontalLayoutGroup, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.HorizontalOrVerticalLayoutGroup, UnityEngine.UI, Version=1.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - IdleState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.Image, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.InGameSettingsScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.InputSystem.InputActionAsset, Unity.InputSystem, Version=1.14.2.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEngine.InputSystem.InputActionReference, Unity.InputSystem, Version=1.14.2.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEngine.InputSystem.InputSettings, Unity.InputSystem, Version=1.14.2.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.InputSystem.UI.InputSystemUIInputModule, Unity.InputSystem, Version=1.14.2.0,
+    Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.InventoryScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.Item, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.ItemAbility, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.LayoutElement, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.LayoutGroup, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.LensDistortion, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.LiftGammaGain, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.Light2D, Unity.RenderPipelines.Universal.2D.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.U2D.Light2DBase, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrLobby.LoadingRoomView, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrLobby.LobbyEntry, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrLobby.LobbyMemberList, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - MageSecondarySwitchLogic, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Avocado.Screens.MainMenuScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.Mask, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.MaskableGraphic, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Material, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - MeleeAttackState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrLobby.MemberEntry, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.MeshFilter, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.MeshRenderer, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - MinionData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.MinionGeneral, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.MonoBehaviour, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEditor.MonoScript, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Motion, UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.MotionBlur, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - MovementController, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - MusicManager, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.AI.NavMeshAgent, UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.AI.NavMeshData, UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - NavMeshPlus.Extensions.NavMeshExtension, NavMeshPlus, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - NavMeshPlus.Components.NavMeshModifier, NavMeshPlus, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - NavMeshPlus.Components.NavMeshModifierTilemap, NavMeshPlus, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - NavMeshPlus.Components.NavMeshSurface, NavMeshPlus, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrNet.NetworkAnimator, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Unity.Netcode.Components.NetworkAnimator, Unity.Netcode.Runtime, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - PurrNet.NetworkAssets, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrNet.NetworkAudioSource, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Unity.Netcode.NetworkBehaviour, Unity.Netcode.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrNet.NetworkBehaviour, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrNet.NetworkIdentity, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrNet.NetworkManager, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Unity.Netcode.NetworkObject, Unity.Netcode.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrNet.NetworkOwnershipToggle, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrNet.NetworkPrefabs, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Unity.Netcode.NetworkPrefabsList, Unity.Netcode.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrNet.NetworkReflection, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Unity.Netcode.Components.NetworkTransform, Unity.Netcode.Runtime, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - PurrNet.NetworkTransform, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - NewMonoBehaviourScript, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Object, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.OnAReroll, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.PaniniProjection, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.ParticleSystem, UnityEngine.ParticleSystemModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEngine.ParticleSystemRenderer, UnityEngine.ParticleSystemModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - ParticleVisuals, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.PauseScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.PennyPuncher, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.PhysicsMaterial2D, UnityEngine.Physics2DModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - Items.PickyChallenger, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PlayerAttack, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PlayerContainer, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.InputSystem.PlayerInput, Unity.InputSystem, Version=1.14.2.0, Culture=neutral,
+    PublicKeyToken=null
+  - PlayerMove, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PlayerUiManager, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PlayerVisuals, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.PocketPuncher, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.PoisonedGarland, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrNet.PrefabProviderScriptable, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Avocado.Screens.PreGameSettingsScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.ProbeVolumesOptions, Unity.RenderPipelines.Core.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Projectile, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - ProjectileAttackState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - ProjectileData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - PurrNet.Transports.PurrTransport, PurrNet.Runtime, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.RawImage, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.RectMask2D, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.RectTransform, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - ReducedCooldownState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.References, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Renderer, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.Renderer2DData, Unity.RenderPipelines.Universal.2D.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.RenderPipelineAsset, UnityEngine.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.RenderPipelineAsset`1[[UnityEngine.Rendering.Universal.UniversalRenderPipeline,
+    Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+    UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.RenderPipelineGlobalSettings, UnityEngine.CoreModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.RenderPipelineGlobalSettings`2[[UnityEngine.Rendering.Universal.UniversalRenderPipelineGlobalSettings,
+    Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null],[UnityEngine.Rendering.Universal.UniversalRenderPipeline,
+    Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+    Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rigidbody2D, UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.RuleTile, Unity.2D.Tilemap.Extras, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.RuntimeAnimatorController, UnityEngine.AnimationModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - Items.RustyDagger, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.SafetyArmor, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEditor.SceneTemplate.SceneTemplateAsset, UnityEditor.SceneTemplateModule,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.ScoreboardScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ScreenSpaceLensFlare, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.ScriptableObject, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ScriptableRendererData, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.Scrollbar, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.ScrollRect, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.Selectable, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Avocado.Screens.SelectionScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Unity.Multiplayer.Center.NetcodeForGameObjectsExample.SetColorBasedOnOwnerId,
+    Unity.Multiplayer.Center.NetcodeForGameObjectsExample, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Shader, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEditor.ShaderGraph.ShaderGraphMetadata, Unity.ShaderGraph.Editor, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEditor.ShaderInclude, UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.ShadowsMidtonesHighlights, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - ShieldState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Shop.ShopEntryPoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Avocado.Screens.ShopScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.UI.Slider, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.SoulArmor, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - SoundFXManager, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.SpecialOffer, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - SpikeTrap, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.SplitToning, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.SpriteRenderer, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - State, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.StateMachineBehaviour, UnityEngine.AnimationModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - StateMachineCore, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - StatsData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Priestess.StatusEffectPrefabMap, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - SwitchAttackState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - SyncedInput, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - SyncedInventory, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - SyncedRoom, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - SyncedStats, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TankDashState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.Text, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.TextAsset, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - TMPro.TextMeshProUGUI, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Texture, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - TextWobbler, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Tilemaps.Tile, UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Tilemaps.TileBase, UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Tilemaps.Tilemap, UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - UnityEngine.Tilemaps.TilemapCollider2D, UnityEngine.TilemapModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Tilemaps.TilemapRenderer, UnityEngine.TilemapModule, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - TMPro.TMP_Asset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TMPro.TMP_InputField, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TMPro.TMP_Settings, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TMPro.TMP_SpriteAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TMPro.TMP_StyleSheet, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TMPro.TMP_Text, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.Tonemapping, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Transform, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Trap, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - TrapData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.TrapMaster, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.EventSystems.UIBehaviour, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Avocado.UiScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnitVisuals, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEditor.Rendering.Universal.ShaderGraph.UniversalMetadata, Unity.RenderPipelines.Universal.Editor,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.UniversalRenderPipelineGlobalSettings, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - Items.Upgrade, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - ItemReference.UpgradeList, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Items.VampiricHunger, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.UI.VerticalLayoutGroup, UnityEngine.UI, Version=1.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - PurrLobby.View, PurrNetLobbySetup, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.Vignette, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.VolumeComponent, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.VolumeProfile, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  - WalkState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - UnityEngine.Rendering.Universal.WhiteBalance, Unity.RenderPipelines.Universal.Runtime,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _bakedIds: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000220000002300000024000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f00000060000000
+  _bakedAssets:
+  - {fileID: 11400000, guid: 02d13ae713e3b4549a39aa38123af847, type: 2}
+  - {fileID: 11400000, guid: df89e6514ca03824382fac6bf4661887, type: 2}
+  - {fileID: 11400000, guid: 3966fa68428cf2042a51951d0d7af997, type: 2}
+  - {fileID: 11400000, guid: 97cbfc0555a9ac54eb650f365c63af51, type: 2}
+  - {fileID: 11400000, guid: 3cceec7e7f9a6bf4a8551b2cc8b81971, type: 2}
+  - {fileID: 8300000, guid: c2ddd54db55a84d0ea8588b1c424ad8d, type: 3}
+  - {fileID: 8300000, guid: 2fd73ed4685c845799686dcbab068a8f, type: 3}
+  - {fileID: 8300000, guid: 819d10ef11ab36349abe07bfda5bf16f, type: 3}
+  - {fileID: 8300000, guid: be6b12aceec10b34d8a748e0e857fe25, type: 3}
+  - {fileID: 8300000, guid: 3a6e9e181b5a15240a83753d0b647657, type: 3}
+  - {fileID: 8300000, guid: 3beaef2ecb7f9b646a1f2289e890a74d, type: 3}
+  - {fileID: 8300000, guid: baf9c5e364b406b44834ff2414fd09ed, type: 3}
+  - {fileID: 8300000, guid: cf7cb147ede5848c7a4b36cf52a074d6, type: 3}
+  - {fileID: 8300000, guid: a2782e0695d814f7cbc03f33a68ef50f, type: 3}
+  - {fileID: 8300000, guid: 31d940f5f37b8c14594c76b8367bd718, type: 3}
+  - {fileID: 8300000, guid: 547de12a1b53ca6498e570cf1f902b93, type: 3}
+  - {fileID: 8300000, guid: b9a80fa325bae46199e59fb25cd342eb, type: 3}
+  - {fileID: 8300000, guid: 52a8f98c079a72a49bcb8303bd300c74, type: 3}
+  - {fileID: 8300000, guid: d6e3faff924358844b9b5111257f1a52, type: 3}
+  - {fileID: 8300000, guid: 971ba8c5755f0c34e93904bf848651a8, type: 3}
+  - {fileID: 8300000, guid: dae04fc7680c840408f1020aa31ff11b, type: 3}
+  - {fileID: 8300000, guid: 3eaaa562a1602f14f8e6d52870e3456b, type: 3}
+  - {fileID: 8300000, guid: 97470576e30391a419fa6b5e65440a41, type: 3}
+  - {fileID: 8300000, guid: 19bd558b0deb0af499a6d190c1446793, type: 3}
+  - {fileID: 8300000, guid: c46bfffeb2c77f543806e23ea477215b, type: 3}
+  - {fileID: 8300000, guid: 6f418071d7e47a34c9ae145f8ac89e04, type: 3}
+  - {fileID: 8300000, guid: a04fe16173901d74eb83ad48aefff844, type: 3}
+  - {fileID: 8300000, guid: 3c934f892f98a064cbaf1f4b2049ccb8, type: 3}
+  - {fileID: 8300000, guid: e5786fef891ffcb40b1cc5aa0615fddf, type: 3}
+  - {fileID: 8300000, guid: 844fb3189be72634ebeb889822d11132, type: 3}
+  - {fileID: 8300000, guid: 2907c04f94107084abdc6797a0da2e48, type: 3}
+  - {fileID: 8300000, guid: 70ff8bdc41e6fb64aa0c37049ce37c0e, type: 3}
+  - {fileID: 8300000, guid: 18633d36a13ce5b4b822007c3cdebc75, type: 3}
+  - {fileID: 8300000, guid: 28143668eb9f42e499dd4d54e8d1be17, type: 3}
+  - {fileID: 8300000, guid: 4298efaa14e423145ae32ed17d74e232, type: 3}
+  - {fileID: 8300000, guid: 39087e691b8d5aa4da66acda704902a3, type: 3}
+  - {fileID: 8300000, guid: 8c0efeb54b516d24d905189dae0f8bb3, type: 3}
+  - {fileID: 11400000, guid: 0cb3ec0c89bffc64f8ba638069a8ed55, type: 2}
+  - {fileID: 11400000, guid: e427793356b27fd49b32b4cba0493346, type: 2}
+  - {fileID: 11400000, guid: ac37df842855a1c4ea728384cc893303, type: 2}
+  - {fileID: 11400000, guid: 1d6305112c0cc34428348331d988c716, type: 2}
+  - {fileID: 11400000, guid: 5878699250bfbe14cbba6462a34dd3c9, type: 2}
+  - {fileID: 11400000, guid: b87b5d04a6811cf44bc0479e452503f0, type: 2}
+  - {fileID: 11400000, guid: 015b8867a67a8f24d834154586991016, type: 2}
+  - {fileID: 11400000, guid: 3badd1f62c2e8f640b4fddfc7c6f9698, type: 2}
+  - {fileID: 11400000, guid: 2ea72e76a2539504bb5fab59e34e1ab6, type: 2}
+  - {fileID: 11400000, guid: 28368e1f0794e374abce9e20bd6a21e5, type: 2}
+  - {fileID: 11400000, guid: 89d760bb2a96a96498acc3ff9e5581cd, type: 2}
+  - {fileID: 11400000, guid: 088be8855ed2899469f746255cdc7910, type: 2}
+  - {fileID: 11400000, guid: 00c760e1e74f1204e8dc5461b63fbaf9, type: 2}
+  - {fileID: 11400000, guid: 2ea6c651b68998441901dbbd8bb70ca5, type: 2}
+  - {fileID: 11400000, guid: 93c9f28312c1a014197ccdb26406dbd2, type: 2}
+  - {fileID: 11400000, guid: f08155af2b49b8041986e61194395598, type: 2}
+  - {fileID: 11400000, guid: 9fb3cabbcad850445be347161cf0b9cf, type: 2}
+  - {fileID: 11400000, guid: 4b0c3ca9cd6188d408d44d6239f38569, type: 2}
+  - {fileID: 11400000, guid: 3dd856052e97f814b9e72cf0f13f834d, type: 2}
+  - {fileID: 11400000, guid: 43fa4ce8d5a128e47b74a9ff4ed03008, type: 2}
+  - {fileID: 11400000, guid: 2cf40485763c39941ac7f21159083507, type: 2}
+  - {fileID: 11400000, guid: b664ddeb390ab8e40bd516058eca7bc6, type: 2}
+  - {fileID: 11400000, guid: 1b790059d54d26a4288f9826f9f93e84, type: 2}
+  - {fileID: 11400000, guid: e98fd1d3767d80140a4da28480113050, type: 2}
+  - {fileID: 11400000, guid: f491811cebab07c41b4d8a8c0a9fbc39, type: 2}
+  - {fileID: 11400000, guid: 2c1aaa0a7dc6966488014e2eb9debfdf, type: 2}
+  - {fileID: 11400000, guid: 7a0469ba4b6ec454e8a5ecd27b173b59, type: 2}
+  - {fileID: 11400000, guid: ff7ebcaa21330b542a302b917b12958d, type: 2}
+  - {fileID: 11400000, guid: f8530ff2e69b4304587a1a4fb9fb5417, type: 2}
+  - {fileID: 11400000, guid: c0682793ca2eae542818c909844d2bde, type: 2}
+  - {fileID: 11400000, guid: aa4b7e7f82ae02048bd8adf4ce9b37ba, type: 2}
+  - {fileID: 11400000, guid: 58ba6f3a04745834a8f54eae2964e751, type: 2}
+  - {fileID: 11400000, guid: 72f789fb3c37b3e47b92d15223363b4b, type: 2}
+  - {fileID: 11400000, guid: a2cfa4a04ccd8544fb651a47923ee5cc, type: 2}
+  - {fileID: 11400000, guid: 4193503eada85a9408fd0bda98acb3f8, type: 2}
+  - {fileID: 11400000, guid: b7e68e4cb3164484cb34545650133542, type: 2}
+  - {fileID: 11400000, guid: 02f2b1cbf2c27b641bdf499d9437f1b1, type: 2}
+  - {fileID: 11400000, guid: 54c05312f88867d479c8f2cd0604da63, type: 2}
+  - {fileID: 11400000, guid: 1e826917efc4f6e4dab3504fdc123a1c, type: 2}
+  - {fileID: 11400000, guid: fd03b03480edc1047aacaa9d8044a2c3, type: 2}
+  - {fileID: 11400000, guid: 09bf262497f669c44a59478052ac1970, type: 2}
+  - {fileID: 11400000, guid: 7661a13b109e60744bea03f3d6b4abd4, type: 2}
+  - {fileID: 11400000, guid: a0ff5fa48bbd25647995402ab07c0018, type: 2}
+  - {fileID: 11400000, guid: e48af5815827ea84dae7c37e692249c3, type: 2}
+  - {fileID: 11400000, guid: eafa4e4ae2ccdd8479327416e9d81379, type: 2}
+  - {fileID: 11400000, guid: ad6aeb1f28e062941b6f3c3180507d1e, type: 2}
+  - {fileID: 11400000, guid: 5b6200e690d526d4f8eff80a1ebcd5a4, type: 2}
+  - {fileID: 11400000, guid: 1bffbd6a6206c5a43bc6d18a602d5496, type: 2}
+  - {fileID: 11400000, guid: 27c7bc33ac75d564ba38bfb0f7436e3b, type: 2}
+  - {fileID: 11400000, guid: 2659672d17c483742b7717f2f680f82f, type: 2}
+  - {fileID: 11400000, guid: 2c08b6d2557db5240932af03db4fadd2, type: 2}
+  - {fileID: 11400000, guid: 61ebaec057ec47f4bb8684976a7f4d87, type: 2}
+  - {fileID: 11400000, guid: 18da6f561fac91e4f9995690d0938e95, type: 2}
+  - {fileID: 11400000, guid: 5aeedcc8b65130b4985cabd90f49b659, type: 2}
+  - {fileID: 11400000, guid: e0f23addd10c75d4a9ebe87ed77fbc76, type: 2}
+  - {fileID: 11400000, guid: 24a7682c1d581374fa165e0adea8c7ea, type: 2}
+  - {fileID: 11400000, guid: 1e28ec5510669b44fb54178c73370f7b, type: 2}
+  - {fileID: 11400000, guid: acc7576fa97ff954d924d8d8c45b86b3, type: 2}

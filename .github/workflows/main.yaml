@@ -1,0 +1,118 @@
+name: Build Release
+
+on: 
+  push:
+    branches:
+      [main, ci/automated-builds] # ci branch temporary
+  pull_request:
+    branches:
+      [main]
+
+jobs:
+   build:
+    name: Create Production Build for ${{ matrix.targetPlatform }}
+    runs-on: ubuntu-latest
+    if: ${{ github.ref == 'refs/heads/main' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        targetPlatform:
+          - StandaloneOSX # For Hayden :)
+          - StandaloneWindows
+          - StandaloneWindows64
+          - StandaloneLinux64
+    steps:
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: false
+          android: true
+          dotnet: true
+          haskell: true
+          large-packages: true
+          docker-images: true
+          swap-storage: true
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          lfs: true
+      - uses: actions/cache@v3
+        with:
+          path: Library
+          key: Library-${{ matrix.targetPlatform }}
+          restore-keys: Library-
+      - name: Compile Build
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          targetPlatform: ${{ matrix.targetPlatform }}
+          projectPath: ./Dungeon Dilemma Dev
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Prod-Build-${{ matrix.targetPlatform }}
+          path: build/${{ matrix.targetPlatform }}
+      - name: Add Repo Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            build/${{ matrix.targetPlatform }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   buildForTesting:
+    name: Create Test Build
+    runs-on: ubuntu-latest
+    if: ${{ github.ref != 'refs/heads/main' }}
+    strategy:
+      fail-fast: false
+      matrix:
+          targetPlatform:
+            - StandaloneWindows64
+    steps:
+      - name: Free Disk Space
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: false
+          android: true
+          dotnet: true
+          haskell: true
+          large-packages: true
+          docker-images: true
+          swap-storage: true
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+      - uses: actions/cache@v3
+        with:
+          path: Library
+          key: Library-${{ matrix.targetPlatform }}
+          restore-keys: Library-
+      - uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          targetPlatform: ${{ matrix.targetPlatform }}
+          projectPath: ./Dungeon Dilemma Dev
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Build-${{ matrix.targetPlatform }}
+          path: build/${{ matrix.targetPlatform }}
+   spellcheck:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Homebrew
+        uses: Homebrew/actions/setup-homebrew@master
+      - run: |
+          brew install typos-cli
+          cd "Dungeon Dilemma Dev"
+          cd Assets
+          cd Scripts
+          typos

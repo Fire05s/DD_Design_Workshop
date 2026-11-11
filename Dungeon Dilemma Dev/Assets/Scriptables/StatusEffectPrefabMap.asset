@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aab90f072251f5449c0967d4d5db26a, type: 3}
+  m_Name: StatusEffectPrefabMap
+  m_EditorClassIdentifier: 
+  entries:
+  - type: 0
+    prefab: {fileID: 5322579042013461297, guid: dc93a408cfdc8f349868c9aefbd40025, type: 3}
+  - type: 1
+    prefab: {fileID: 5322579042013461297, guid: 3a3c606e2ecbb7146b517f2d00c648cb, type: 3}
+  - type: 2
+    prefab: {fileID: 5322579042013461297, guid: 997063deb0519e544bc0ad3e0bee1e0d, type: 3}
+  - type: 3
+    prefab: {fileID: 5322579042013461297, guid: d58de0072f47f204ea91671fc189fab9, type: 3}
+  - type: 4
+    prefab: {fileID: 5322579042013461297, guid: 08d33e2e6e27eb04ca8c8506b9762cfa, type: 3}
+  - type: 5
+    prefab: {fileID: 5322579042013461297, guid: eac20ccb630c8794984e77650e9749b6, type: 3}
+  - type: 6
+    prefab: {fileID: 5322579042013461297, guid: a6595599d84b0eb43ab94a0438bd389f, type: 3}
+  - type: 7
+    prefab: {fileID: 5322579042013461297, guid: 0c7af3ed685112e459c41a2abd7ee3b8, type: 3}
+  - type: 8
+    prefab: {fileID: 5322579042013461297, guid: 4511ae89d6b21064da7d289dfcdbd8f3, type: 3}
+  - type: 9
+    prefab: {fileID: 5322579042013461297, guid: d359115d4e1ca29449fb14561316b43f, type: 3}
+  - type: 10
+    prefab: {fileID: 5322579042013461297, guid: 4a9e8c509619f9141bc3d521aed7aa40, type: 3}
+  - type: 11
+    prefab: {fileID: 5322579042013461297, guid: 643972db89849f64da9a8bfc2b695d62, type: 3}
+  - type: 12
+    prefab: {fileID: 5322579042013461297, guid: 29e55d954055de84b9d027f5f088f631, type: 3}
+  - type: 13
+    prefab: {fileID: 5322579042013461297, guid: 63c23b7025d3374448e4c85239d6bcd1, type: 3}
+  - type: 14
+    prefab: {fileID: 5322579042013461297, guid: 8f7a4e5f75226834ebfbecdf9783a227, type: 3}
+  - type: 15
+    prefab: {fileID: 5322579042013461297, guid: 9cd87507829d42649b84cd494f5fa37b, type: 3}
+  - type: 16
+    prefab: {fileID: 5322579042013461297, guid: 86b715b385beea04797be69102c98935, type: 3}

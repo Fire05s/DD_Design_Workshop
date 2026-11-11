@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6615d45207702a6419ef68974b3ef8a0, type: 3}
+  m_Name: Giant Slayer
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Giant Slayer
+  <AbilityDescription>k__BackingField: Deal 2% extra <color=#FF53FF>Damage</color>
+    per 500 <color=#FF5D5A>Max HP</color> your target has more than you.
+  <FlavorText>k__BackingField: "Yarrow could\u2019ve lived a noble, comfortable life.
+    Instead, she chose the revolution, earning gold for the effort through an epic
+    quest or two."
+  <Icon>k__BackingField: {fileID: -1612083248742481525, guid: aefe7c1e91bc8314e87f8fd569eb2a66, type: 3}
+  <Cost>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldown>k__BackingField: 0
+  <SecondaryCooldown>k__BackingField: 0
+  <DashCooldown>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 11400000, guid: e8ce29779c39bd94a9106220e95aa821, type: 2}

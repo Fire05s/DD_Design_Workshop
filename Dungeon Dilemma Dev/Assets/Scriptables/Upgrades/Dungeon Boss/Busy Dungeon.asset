@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6615d45207702a6419ef68974b3ef8a0, type: 3}
+  m_Name: Busy Dungeon
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Busy Dungeon
+  <AbilityDescription>k__BackingField: 'Reduce the Raid Timer by 1 minute.
+
+'
+  <FlavorText>k__BackingField: "You don\u2019t have all day, so enhance those dungeon
+    glyphs to stuff our those pesky Challengers."
+  <Icon>k__BackingField: {fileID: 4588228885943108217, guid: d31576fc93274fa448d72bbdfc84d222, type: 3}
+  <Cost>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldown>k__BackingField: 0
+  <SecondaryCooldown>k__BackingField: 0
+  <DashCooldown>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 11400000, guid: 99a038c2f98a99947b33377b38a25643, type: 2}

@@ -1,0 +1,336 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1713970850785817470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4447086387228208934}
+  - component: {fileID: 3628282506712729345}
+  - component: {fileID: -4494219745715520112}
+  - component: {fileID: 2151580834634039653}
+  - component: {fileID: 7364369900804036690}
+  - component: {fileID: -6441636993528158292}
+  - component: {fileID: 543394929021921334}
+  - component: {fileID: 7076750722696352839}
+  m_Layer: 0
+  m_Name: PlayerContainer
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4447086387228208934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3628282506712729345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd83f769f86384b40b59cd6c1ad2be8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isSetup: 0
+  _prefabId: -2147483648
+  _componentIndex: -2147483648
+  _shouldBePooled: 0
+  _parent: {fileID: 0}
+  _invertedPathToNearestParent: 
+  _directChildren: []
+  _networkRules: {fileID: 0}
+  _visitiblityRules: {fileID: 0}
+  CharacterInstance: {fileID: 0}
+--- !u!114 &-4494219745715520112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c376f72a0090b49a66c07551d9ed65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isSetup: 0
+  _prefabId: -2147483648
+  _componentIndex: -2147483648
+  _shouldBePooled: 0
+  _parent: {fileID: 0}
+  _invertedPathToNearestParent: 
+  _directChildren: []
+  _networkRules: {fileID: 0}
+  _visitiblityRules: {fileID: 0}
+  IsAlive:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  CurrentHealth:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  PassiveRegen:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  AttackPower:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  Armor:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  Resistance:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  AttackRadius:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  MaximumHealth:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  AttackBuff:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  AttackDebuff:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  Lifesteal:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  Revives:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  MovementSpeed:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  DashStrength:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  Scale:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  PrimaryAbilityCooldown:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  SecondaryAbilityCooldown:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  DashCooldown:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  Currency:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  Name:
+    _value: 
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  <Icon>k__BackingField: {fileID: 0}
+  <DeadIcon>k__BackingField: {fileID: 0}
+  Score:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  DamageDealt:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  DamageBlocked:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  RegeneratedHealth:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  SupportPoints:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+  BossHits:
+    _value: 0
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+--- !u!114 &2151580834634039653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e3ff19e764cd1d498edb38028bb668a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isSetup: 0
+  _prefabId: -2147483648
+  _componentIndex: -2147483648
+  _shouldBePooled: 0
+  _parent: {fileID: 0}
+  _invertedPathToNearestParent: 
+  _directChildren: []
+  _networkRules: {fileID: 0}
+  _visitiblityRules: {fileID: 0}
+  _stats: {fileID: -4494219745715520112}
+  MaxEquipmentAmount: 5
+  HeldEquipment:
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+    _list: []
+  SoldEquipment:
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+    _list: []
+  MaxUpgradeAmount: 5
+  ActiveUpgrades:
+    _ownerAuth: 0
+    _sendIntervalInSeconds: 0
+    _list: []
+  HeldBuildables:
+    _ownerAuth: 0
+    _serializedDict:
+      keys: []
+      values: 
+      stringKeys: []
+      stringValues: []
+    _sendIntervalInSeconds: 0
+    _useForceSend: 0
+  PlacedBuildables:
+    _ownerAuth: 0
+    _serializedDict:
+      keys: []
+      values: 
+      stringKeys: []
+      stringValues: []
+    _sendIntervalInSeconds: 0
+    _useForceSend: 0
+--- !u!114 &7364369900804036690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a04fd32a2a348d7bb00a5480dc6b19a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isSetup: 0
+  _prefabId: -2147483648
+  _componentIndex: -2147483648
+  _shouldBePooled: 0
+  _parent: {fileID: 0}
+  _invertedPathToNearestParent: 
+  _directChildren: []
+  _networkRules: {fileID: 0}
+  _visitiblityRules: {fileID: 0}
+  activeScreen: CharacterSelectionUI
+--- !u!114 &-6441636993528158292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 817fe5016bd0a2a49a95b6eb338bb132, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isSetup: 0
+  _prefabId: -2147483648
+  _componentIndex: -2147483648
+  _shouldBePooled: 0
+  _parent: {fileID: 0}
+  _invertedPathToNearestParent: 
+  _directChildren: []
+  _networkRules: {fileID: 0}
+  _visitiblityRules: {fileID: 0}
+  _syncPosition: 1
+  _syncRotation: 1
+  _syncScale: 1
+  _syncParent: 1
+  _interpolateSettings: 7
+  _minBufferSize: 1
+  _maxBufferSize: 2
+  _characterControllerPatch: 0
+  _ownerAuth: 1
+  _interpolationTiming: 0
+--- !u!114 &543394929021921334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ab3f2f75dcfa604e8352c6ae6995ed9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _damageTextPrefab: {fileID: 850425979398332770, guid: 9c4dd17dc88c60145a1b7fc340e554fc, type: 3}
+  TickCooldown: 1
+--- !u!114 &7076750722696352839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713970850785817470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb763cfb0fbf2c44b3587223c4aad1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isSetup: 0
+  _prefabId: -2147483648
+  _componentIndex: -2147483648
+  _shouldBePooled: 0
+  _parent: {fileID: 0}
+  _invertedPathToNearestParent: 
+  _directChildren: []
+  _networkRules: {fileID: 0}
+  _visitiblityRules: {fileID: 0}
+  _trackedBehaviour: {fileID: 3628282506712729345}
+  _trackedFields:
+  - type: 0
+    name: CharacterInstance
+  _ownerAuth: 1

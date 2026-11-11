@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6615d45207702a6419ef68974b3ef8a0, type: 3}
+  m_Name: Trap Master
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Trap Master
+  <AbilityDescription>k__BackingField: Traps are 2x more likely to appear in the
+    Shop.
+  <FlavorText>k__BackingField: Junipurnia recently had a massive sale, where the
+    shopkeepers bought a bunch of traps.
+  <Icon>k__BackingField: {fileID: 21300000, guid: 5e6cb92fea6b0b94a98a79c5414a8756, type: 3}
+  <Cost>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldown>k__BackingField: 0
+  <SecondaryCooldown>k__BackingField: 0
+  <DashCooldown>k__BackingField: 0
+  <ShopRerollCost>k__BackingField: 0
+  <AttackRadiusMultiplier>k__BackingField: 1
+  <AttackBuffMultiplier>k__BackingField: 1
+  <AttackDebuffMultiplier>k__BackingField: 1
+  <ShopCostMultiplier>k__BackingField: 1
+  <Ability>k__BackingField: {fileID: 11400000, guid: 3b0f5ff38cd92ff4d9e62200e372ac21, type: 2}

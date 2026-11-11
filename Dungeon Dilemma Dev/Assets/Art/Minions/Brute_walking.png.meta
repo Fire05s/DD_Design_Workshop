@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 887b57881673d9747b2ac0b4f025752a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5840974770704817422
+    second: Brute_walking_0
+  - first:
+      213: 7109708824864199980
+    second: Brute_walking_1
+  - first:
+      213: 7691991360782794951
+    second: Brute_walking_2
+  - first:
+      213: -3604484975811342556
+    second: Brute_walking_3
+  - first:
+      213: -4452041214734499139
+    second: Brute_walking_4
+  - first:
+      213: 8372207437699824925
+    second: Brute_walking_5
+  - first:
+      213: -7000705933681938323
+    second: Brute_walking_6
+  - first:
+      213: -6281194352001243784
+    second: Brute_walking_7
+  - first:
+      213: -3737329659269690819
+    second: Brute_walking_8
+  - first:
+      213: 6130171858644897180
+    second: Brute_walking_9
+  - first:
+      213: -82167009493914298
+    second: Brute_walking_10
+  - first:
+      213: 417673238761878537
+    second: Brute_walking_11
+  - first:
+      213: 665921962384509986
+    second: Brute_walking_12
+  - first:
+      213: 4591914775001882056
+    second: Brute_walking_13
+  - first:
+      213: -4055717447843552618
+    second: Brute_walking_14
+  - first:
+      213: 1933098050514852167
+    second: Brute_walking_15
+  - first:
+      213: -7918473845132813656
+    second: Brute_walking_16
+  - first:
+      213: 5912434239970636946
+    second: Brute_walking_17
+  - first:
+      213: -1882964486579822753
+    second: Brute_walking_18
+  - first:
+      213: -8263106418574002540
+    second: Brute_walking_19
+  - first:
+      213: 5386540147144656141
+    second: Brute_walking_20
+  - first:
+      213: -8534673444541476170
+    second: Brute_walking_21
+  - first:
+      213: 326558886739878791
+    second: Brute_walking_22
+  - first:
+      213: -7332114495005106711
+    second: Brute_walking_23
+  - first:
+      213: 3441338882643625403
+    second: Brute_walking_24
+  - first:
+      213: -694225911914892553
+    second: Brute_walking_25
+  - first:
+      213: 5505223222874600375
+    second: Brute_walking_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brute_walking_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d11ed6b9f4f0150800000000000000
+      internalID: 5840974770704817422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 39
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c259d72e182caa260800000000000000
+      internalID: 7109708824864199980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 39
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c005d283617fba60800000000000000
+      internalID: 7691991360782794951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 39
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db20a566a1c2732c0800000000000000
+      internalID: -4452041214734499139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 39
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d603bed6b0f78de90800000000000000
+      internalID: -7000705933681938323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 40
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ac2b2e976522cc0800000000000000
+      internalID: -3737329659269690819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 39
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64debda4a851cdef0800000000000000
+      internalID: -82167009493914298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 39
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c4f002f74dd3900800000000000000
+      internalID: 665921962384509986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_14
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 39
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6926ee3287237b7c0800000000000000
+      internalID: -4055717447843552618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_16
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 39
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa13a1edfdeb1290800000000000000
+      internalID: -7918473845132813656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_18
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 39
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fdbbc96cd5ed5e0800000000000000
+      internalID: -1882964486579822753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_20
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 39
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0500f689b5d0ca40800000000000000
+      internalID: 5386540147144656141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_22
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 39
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783a06ac39b288400800000000000000
+      internalID: 326558886739878791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_23
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 39
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed5ab8c6b81f3a90800000000000000
+      internalID: -7332114495005106711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_24
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 39
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb586b31b7712cf20800000000000000
+      internalID: 3441338882643625403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_25
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 39
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f076163d9d56f0800000000000000
+      internalID: -694225911914892553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brute_walking_26
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 39
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3fba07a5b766c40800000000000000
+      internalID: 5505223222874600375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ea4da5d363a7ce47aeb1105deadc409
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brute_walking_0: 5840974770704817422
+      Brute_walking_1: 7109708824864199980
+      Brute_walking_10: -82167009493914298
+      Brute_walking_11: 417673238761878537
+      Brute_walking_12: 665921962384509986
+      Brute_walking_13: 4591914775001882056
+      Brute_walking_14: -4055717447843552618
+      Brute_walking_15: 1933098050514852167
+      Brute_walking_16: -7918473845132813656
+      Brute_walking_17: 5912434239970636946
+      Brute_walking_18: -1882964486579822753
+      Brute_walking_19: -8263106418574002540
+      Brute_walking_2: 7691991360782794951
+      Brute_walking_20: 5386540147144656141
+      Brute_walking_21: -8534673444541476170
+      Brute_walking_22: 326558886739878791
+      Brute_walking_23: -7332114495005106711
+      Brute_walking_24: 3441338882643625403
+      Brute_walking_25: -694225911914892553
+      Brute_walking_26: 5505223222874600375
+      Brute_walking_3: -3604484975811342556
+      Brute_walking_4: -4452041214734499139
+      Brute_walking_5: 8372207437699824925
+      Brute_walking_6: -7000705933681938323
+      Brute_walking_7: -6281194352001243784
+      Brute_walking_8: -3737329659269690819
+      Brute_walking_9: 6130171858644897180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

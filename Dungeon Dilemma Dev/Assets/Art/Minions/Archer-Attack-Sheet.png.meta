@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: f72779c18541118459c79e4b535c7c87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1743468707601462302
+    second: Archer-Attack-Sheet_0
+  - first:
+      213: -1023423688192622306
+    second: Archer-Attack-Sheet_1
+  - first:
+      213: -212775060620581229
+    second: Archer-Attack-Sheet_2
+  - first:
+      213: -3728945948241778530
+    second: Archer-Attack-Sheet_3
+  - first:
+      213: -4929160740091384913
+    second: Archer-Attack-Sheet_4
+  - first:
+      213: 9013476249202191414
+    second: Archer-Attack-Sheet_5
+  - first:
+      213: 7781885966787476042
+    second: Archer-Attack-Sheet_6
+  - first:
+      213: -988050017135864467
+    second: Archer-Attack-Sheet_7
+  - first:
+      213: -5235663008112196750
+    second: Archer-Attack-Sheet_8
+  - first:
+      213: 3364099450123752117
+    second: Archer-Attack-Sheet_9
+  - first:
+      213: 7481582363082027724
+    second: Archer-Attack-Sheet_10
+  - first:
+      213: -5334798906520818625
+    second: Archer-Attack-Sheet_11
+  - first:
+      213: 4139350462080040293
+    second: Archer-Attack-Sheet_12
+  - first:
+      213: 7636071678062919676
+    second: Archer-Attack-Sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1438916d8b023810800000000000000
+      internalID: 1743468707601462302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e110f82f3911cc1f0800000000000000
+      internalID: -1023423688192622306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e5aea5321c0df0800000000000000
+      internalID: -212775060620581229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98aa68ba6f104cc0800000000000000
+      internalID: -3728945948241778530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 128
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab2d063c6a189bb0800000000000000
+      internalID: -4929160740091384913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ced19a4ec461d70800000000000000
+      internalID: 9013476249202191414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4af6fc7e00defb60800000000000000
+      internalID: 7781885966787476042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d655c4c8ebdb942f0800000000000000
+      internalID: -988050017135864467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c1dddb303757b0800000000000000
+      internalID: -5235663008112196750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b296b940aeafae20800000000000000
+      internalID: 3364099450123752117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2f455258be3d760800000000000000
+      internalID: 7481582363082027724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c2fa4d8acf6f5b0800000000000000
+      internalID: -5334798906520818625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d3125605de17930800000000000000
+      internalID: 4139350462080040293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer-Attack-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff7c5acbb6c8f960800000000000000
+      internalID: 7636071678062919676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 697e41775ade41142b42ba90c4c4717e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Archer-Attack-Sheet_0: 1743468707601462302
+      Archer-Attack-Sheet_1: -1023423688192622306
+      Archer-Attack-Sheet_10: 7481582363082027724
+      Archer-Attack-Sheet_11: -5334798906520818625
+      Archer-Attack-Sheet_12: 4139350462080040293
+      Archer-Attack-Sheet_13: 7636071678062919676
+      Archer-Attack-Sheet_2: -212775060620581229
+      Archer-Attack-Sheet_3: -3728945948241778530
+      Archer-Attack-Sheet_4: -4929160740091384913
+      Archer-Attack-Sheet_5: 9013476249202191414
+      Archer-Attack-Sheet_6: 7781885966787476042
+      Archer-Attack-Sheet_7: -988050017135864467
+      Archer-Attack-Sheet_8: -5235663008112196750
+      Archer-Attack-Sheet_9: 3364099450123752117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

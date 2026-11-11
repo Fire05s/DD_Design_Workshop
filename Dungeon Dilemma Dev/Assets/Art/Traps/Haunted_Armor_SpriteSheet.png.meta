@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f5e75044bc7452b469deede5f763cf0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2436370843263277051
+    second: Haunted_Armor_SpriteSheet_0
+  - first:
+      213: -2354109900863765044
+    second: Haunted_Armor_SpriteSheet_1
+  - first:
+      213: -6760458260578952312
+    second: Haunted_Armor_SpriteSheet_2
+  - first:
+      213: 5914977175800485843
+    second: Haunted_Armor_SpriteSheet_3
+  - first:
+      213: -3810032566979288877
+    second: Haunted_Armor_SpriteSheet_4
+  - first:
+      213: 8846310404796213109
+    second: Haunted_Armor_SpriteSheet_5
+  - first:
+      213: -5158084970005863030
+    second: Haunted_Armor_SpriteSheet_6
+  - first:
+      213: 4644134916934667781
+    second: Haunted_Armor_SpriteSheet_7
+  - first:
+      213: 5751404084557260431
+    second: Haunted_Armor_SpriteSheet_8
+  - first:
+      213: -5731556461500102917
+    second: Haunted_Armor_SpriteSheet_9
+  - first:
+      213: 6618216727583710224
+    second: Haunted_Armor_SpriteSheet_10
+  - first:
+      213: -4766337809199591807
+    second: Haunted_Armor_SpriteSheet_11
+  - first:
+      213: 8831696212998758750
+    second: Haunted_Armor_SpriteSheet_12
+  - first:
+      213: 4437351797409978903
+    second: Haunted_Armor_SpriteSheet_13
+  - first:
+      213: -6913890264060697086
+    second: Haunted_Armor_SpriteSheet_14
+  - first:
+      213: -1295194547859107449
+    second: Haunted_Armor_SpriteSheet_15
+  - first:
+      213: 8430192293638305626
+    second: Haunted_Armor_SpriteSheet_16
+  - first:
+      213: 2209655226882927384
+    second: Haunted_Armor_SpriteSheet_17
+  - first:
+      213: 1436340193570491192
+    second: Haunted_Armor_SpriteSheet_18
+  - first:
+      213: -8477940867612366388
+    second: Haunted_Armor_SpriteSheet_19
+  - first:
+      213: 1383275127575063097
+    second: Haunted_Armor_SpriteSheet_20
+  - first:
+      213: -644212896221164713
+    second: Haunted_Armor_SpriteSheet_21
+  - first:
+      213: 4003138658106543587
+    second: Haunted_Armor_SpriteSheet_22
+  - first:
+      213: 319073532254153376
+    second: Haunted_Armor_SpriteSheet_23
+  - first:
+      213: 4743510114287633114
+    second: Haunted_Armor_SpriteSheet_24
+  - first:
+      213: -1605758596720600940
+    second: Haunted_Armor_SpriteSheet_25
+  - first:
+      213: 8477287246829741801
+    second: Haunted_Armor_SpriteSheet_26
+  - first:
+      213: -6971594840486187697
+    second: Haunted_Armor_SpriteSheet_27
+  - first:
+      213: 5818492671235601674
+    second: Haunted_Armor_SpriteSheet_28
+  - first:
+      213: 6030360175849703627
+    second: Haunted_Armor_SpriteSheet_29
+  - first:
+      213: 8090773804003256795
+    second: Haunted_Armor_SpriteSheet_30
+  - first:
+      213: -8009157768297749276
+    second: Haunted_Armor_SpriteSheet_31
+  - first:
+      213: -690794593036089370
+    second: Haunted_Armor_SpriteSheet_32
+  - first:
+      213: -8022872088997486015
+    second: Haunted_Armor_SpriteSheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf793dd9f5abfc120800000000000000
+      internalID: 2436370843263277051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc509cc8485845fd0800000000000000
+      internalID: -2354109900863765044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 129
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b165bc7070e22a0800000000000000
+      internalID: -6760458260578952312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 129
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7912a0768361250800000000000000
+      internalID: 5914977175800485843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85e4896c0dca68b0800000000000000
+      internalID: -5158084970005863030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8624cbea8711df40800000000000000
+      internalID: 5751404084557260431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 98
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cdc268c01a8db50800000000000000
+      internalID: 6618216727583710224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e052304019addb0800000000000000
+      internalID: -4766337809199591807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 98
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5124f3d9ec709a70800000000000000
+      internalID: 8831696212998758750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 98
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a101c13f3a49d30800000000000000
+      internalID: 4437351797409978903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20661aaaf6dec00a0800000000000000
+      internalID: -6913890264060697086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57fb8ad93f0ef470800000000000000
+      internalID: 8430192293638305626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a23fe2bd485a80800000000000000
+      internalID: -8477940867612366388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 66
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed031766610e8730800000000000000
+      internalID: 4003138658106543587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 66
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaec33efa39d6400800000000000000
+      internalID: 319073532254153376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad24696115554d140800000000000000
+      internalID: 4743510114287633114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 34
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498507f501337b9e0800000000000000
+      internalID: -1605758596720600940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 34
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05363db1407fb050800000000000000
+      internalID: 5818492671235601674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 34
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd966a178e3384070800000000000000
+      internalID: 8090773804003256795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 33
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7c2554afdc966f0800000000000000
+      internalID: -690794593036089370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunted_Armor_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142a8e0975809a090800000000000000
+      internalID: -8022872088997486015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d60fdc8633236fa40b684ed8f8586b73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Haunted_Armor_SpriteSheet_0: 2436370843263277051
+      Haunted_Armor_SpriteSheet_1: -2354109900863765044
+      Haunted_Armor_SpriteSheet_10: 6618216727583710224
+      Haunted_Armor_SpriteSheet_11: -4766337809199591807
+      Haunted_Armor_SpriteSheet_12: 8831696212998758750
+      Haunted_Armor_SpriteSheet_13: 4437351797409978903
+      Haunted_Armor_SpriteSheet_14: -6913890264060697086
+      Haunted_Armor_SpriteSheet_15: -1295194547859107449
+      Haunted_Armor_SpriteSheet_16: 8430192293638305626
+      Haunted_Armor_SpriteSheet_17: 2209655226882927384
+      Haunted_Armor_SpriteSheet_18: 1436340193570491192
+      Haunted_Armor_SpriteSheet_19: -8477940867612366388
+      Haunted_Armor_SpriteSheet_2: -6760458260578952312
+      Haunted_Armor_SpriteSheet_20: 1383275127575063097
+      Haunted_Armor_SpriteSheet_21: -644212896221164713
+      Haunted_Armor_SpriteSheet_22: 4003138658106543587
+      Haunted_Armor_SpriteSheet_23: 319073532254153376
+      Haunted_Armor_SpriteSheet_24: 4743510114287633114
+      Haunted_Armor_SpriteSheet_25: -1605758596720600940
+      Haunted_Armor_SpriteSheet_26: 8477287246829741801
+      Haunted_Armor_SpriteSheet_27: -6971594840486187697
+      Haunted_Armor_SpriteSheet_28: 5818492671235601674
+      Haunted_Armor_SpriteSheet_29: 6030360175849703627
+      Haunted_Armor_SpriteSheet_3: 5914977175800485843
+      Haunted_Armor_SpriteSheet_30: 8090773804003256795
+      Haunted_Armor_SpriteSheet_31: -8009157768297749276
+      Haunted_Armor_SpriteSheet_32: -690794593036089370
+      Haunted_Armor_SpriteSheet_33: -8022872088997486015
+      Haunted_Armor_SpriteSheet_4: -3810032566979288877
+      Haunted_Armor_SpriteSheet_5: 8846310404796213109
+      Haunted_Armor_SpriteSheet_6: -5158084970005863030
+      Haunted_Armor_SpriteSheet_7: 4644134916934667781
+      Haunted_Armor_SpriteSheet_8: 5751404084557260431
+      Haunted_Armor_SpriteSheet_9: -5731556461500102917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: aaa5ad9f5715f654b84ac89771132c8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4386030562167597343
+    second: Mage Projectile Explosion-Sheet_0
+  - first:
+      213: 4263917914787571293
+    second: Mage Projectile Explosion-Sheet_1
+  - first:
+      213: -2425550319480141966
+    second: Mage Projectile Explosion-Sheet_2
+  - first:
+      213: -5459844005078539777
+    second: Mage Projectile Explosion-Sheet_3
+  - first:
+      213: 4663897860315662648
+    second: Mage Projectile Explosion-Sheet_4
+  - first:
+      213: 6698186699905413725
+    second: Mage Projectile Explosion-Sheet_5
+  - first:
+      213: 7582958344872839999
+    second: Mage Projectile Explosion-Sheet_6
+  - first:
+      213: -6625518198041756084
+    second: Mage Projectile Explosion-Sheet_7
+  - first:
+      213: -6226924429544431511
+    second: Mage Projectile Explosion-Sheet_8
+  - first:
+      213: -5209654332807475370
+    second: Mage Projectile Explosion-Sheet_9
+  - first:
+      213: 6546599560208060758
+    second: Mage Projectile Explosion-Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage Projectile Explosion-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65eff1170b123c0800000000000000
+      internalID: -4386030562167597343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Projectile Explosion-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff16f3c0eccba34b0800000000000000
+      internalID: -5459844005078539777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Projectile Explosion-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c1d0c46e79b040800000000000000
+      internalID: 4663897860315662648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Projectile Explosion-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bcabc30741c3960800000000000000
+      internalID: 7582958344872839999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Projectile Explosion-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f8f6a7cf693b7b0800000000000000
+      internalID: -5209654332807475370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a99da54e066dec745ac2e6b98824de7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mage Projectile Explosion-Sheet_0: -4386030562167597343
+      Mage Projectile Explosion-Sheet_1: 4263917914787571293
+      Mage Projectile Explosion-Sheet_10: 6546599560208060758
+      Mage Projectile Explosion-Sheet_2: -2425550319480141966
+      Mage Projectile Explosion-Sheet_3: -5459844005078539777
+      Mage Projectile Explosion-Sheet_4: 4663897860315662648
+      Mage Projectile Explosion-Sheet_5: 6698186699905413725
+      Mage Projectile Explosion-Sheet_6: 7582958344872839999
+      Mage Projectile Explosion-Sheet_7: -6625518198041756084
+      Mage Projectile Explosion-Sheet_8: -6226924429544431511
+      Mage Projectile Explosion-Sheet_9: -5209654332807475370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

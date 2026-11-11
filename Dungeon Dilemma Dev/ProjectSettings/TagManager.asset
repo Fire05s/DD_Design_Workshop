@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Boss
+  - Challenger
+  - DoNotRender
+  - BossCamera
+  - ConstructionLayer
+  - PreviewLayer
+  - NavMesh
+  - Enemy
+  - Network Setup UI
+  - ChallengerCamera
+  - Player Selection Menu
+  - Trap
+  - WaitingRoom
+  - Leaderboard
+  - ClassSelector
+  - Projectile
+  - Status
+  - Dead
+  - Border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Challenger
+  - Boss
+  - Dead
+  - Unbuildable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Challenger
+    uniqueID: 2386233059
+    locked: 0
+  - name: Dungeon Boss
+    uniqueID: 3923699133
+    locked: 0
+  - name: Particles
+    uniqueID: 70023147
+    locked: 0
+  - name: Foreground
+    uniqueID: 3512937627
+    locked: 0
+  m_RenderingLayers:
+  - Default

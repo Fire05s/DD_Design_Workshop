@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34990773aec0fb04dbf2afcd9c7e958e, type: 3}
+  m_Name: Lightning Blade
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Lightning Blade
+  <AbilityDescription>k__BackingField: Periodically deal 15% more <color=#FF53FF>Damage</color>.
+    This <color=#FF53FF>Damage</color> also applies to the nearest other Challenger.
+  <FlavorText>k__BackingField: Charge this blade by letting it get struck by lightning
+    every few seasons.
+  <Icon>k__BackingField: {fileID: -7165622572664932732, guid: 994d0ac70ce571a40acc9854983b99cb, type: 3}
+  <Cost>k__BackingField: 600
+  <Health>k__BackingField: 0
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 1
+  <Power>k__BackingField: 25
+  <Resistance>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldownModifier>k__BackingField: 0
+  <SecondaryCooldownModifier>k__BackingField: 0
+  <DashCooldownModifier>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 11400000, guid: 72c61b253dfc03b4899fc2745f8b5e5e, type: 2}

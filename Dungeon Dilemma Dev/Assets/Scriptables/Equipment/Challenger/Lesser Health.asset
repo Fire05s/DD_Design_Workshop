@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34990773aec0fb04dbf2afcd9c7e958e, type: 3}
+  m_Name: Lesser Health
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Lesser Health Potion
+  <AbilityDescription>k__BackingField: This has no passive or active ability...
+  <FlavorText>k__BackingField: Despite being made from dandelions, pus from the skin
+    of Jimjim toads, and screaming gourds, this potion tastes great!
+  <Icon>k__BackingField: {fileID: 2696033262952571310, guid: f918394724f4aad4880b795af9a2e0a8, type: 3}
+  <Cost>k__BackingField: 300
+  <Health>k__BackingField: 400
+  <Regeneration>k__BackingField: 0
+  <MoveSpeed>k__BackingField: 0
+  <Power>k__BackingField: 0
+  <Resistance>k__BackingField: 0
+  <Scale>k__BackingField: 0
+  <LifeSteal>k__BackingField: 0
+  <Revives>k__BackingField: 0
+  <DashStrength>k__BackingField: 0
+  <PrimaryCooldownModifier>k__BackingField: 0
+  <SecondaryCooldownModifier>k__BackingField: 0
+  <DashCooldownModifier>k__BackingField: 0
+  <AttackRadius>k__BackingField: 0
+  <AttackBuff>k__BackingField: 0
+  <AttackDebuff>k__BackingField: 0
+  <Ability>k__BackingField: {fileID: 0}

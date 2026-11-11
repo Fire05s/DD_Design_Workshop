@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: 13627c9dda1575c4786efd92f3c26200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9029723334139815882
+    second: Boss Yew Death-Sheet_0
+  - first:
+      213: 7804620177416899066
+    second: Boss Yew Death-Sheet_1
+  - first:
+      213: 8166269205400323549
+    second: Boss Yew Death-Sheet_2
+  - first:
+      213: -1595140487339146916
+    second: Boss Yew Death-Sheet_3
+  - first:
+      213: 3224232084209820597
+    second: Boss Yew Death-Sheet_4
+  - first:
+      213: -6042538813189454727
+    second: Boss Yew Death-Sheet_5
+  - first:
+      213: -290036701568310903
+    second: Boss Yew Death-Sheet_6
+  - first:
+      213: -5583089328278923334
+    second: Boss Yew Death-Sheet_7
+  - first:
+      213: 3068838221807758598
+    second: Boss Yew Death-Sheet_8
+  - first:
+      213: -3933066634706810236
+    second: Boss Yew Death-Sheet_9
+  - first:
+      213: -5434189452615922194
+    second: Boss Yew Death-Sheet_10
+  - first:
+      213: -4625506313346938243
+    second: Boss Yew Death-Sheet_11
+  - first:
+      213: 7626256975180888464
+    second: Boss Yew Death-Sheet_12
+  - first:
+      213: 1552567760057673774
+    second: Boss Yew Death-Sheet_13
+  - first:
+      213: 6919980610807884270
+    second: Boss Yew Death-Sheet_14
+  - first:
+      213: 2044311191240519285
+    second: Boss Yew Death-Sheet_15
+  - first:
+      213: -3464622034517859148
+    second: Boss Yew Death-Sheet_16
+  - first:
+      213: -4368263065626752662
+    second: Boss Yew Death-Sheet_17
+  - first:
+      213: 8578855301976816487
+    second: Boss Yew Death-Sheet_18
+  - first:
+      213: 7223127455823541687
+    second: Boss Yew Death-Sheet_19
+  - first:
+      213: 7132099186616661956
+    second: Boss Yew Death-Sheet_20
+  - first:
+      213: -4712127719565744499
+    second: Boss Yew Death-Sheet_21
+  - first:
+      213: 7787321455693449008
+    second: Boss Yew Death-Sheet_22
+  - first:
+      213: 7573413562074426055
+    second: Boss Yew Death-Sheet_23
+  - first:
+      213: 2426114590164297296
+    second: Boss Yew Death-Sheet_24
+  - first:
+      213: -6890413070344932408
+    second: Boss Yew Death-Sheet_25
+  - first:
+      213: 4223973625715261542
+    second: Boss Yew Death-Sheet_26
+  - first:
+      213: 5554920343616997298
+    second: Boss Yew Death-Sheet_27
+  - first:
+      213: 6846844742753468852
+    second: Boss Yew Death-Sheet_28
+  - first:
+      213: 884201987044156640
+    second: Boss Yew Death-Sheet_29
+  - first:
+      213: 8133647538047654233
+    second: Boss Yew Death-Sheet_30
+  - first:
+      213: -230894277528968756
+    second: Boss Yew Death-Sheet_31
+  - first:
+      213: -9211633693125664403
+    second: Boss Yew Death-Sheet_32
+  - first:
+      213: -8530637712138271614
+    second: Boss Yew Death-Sheet_33
+  - first:
+      213: 7781733289905364595
+    second: Boss Yew Death-Sheet_34
+  - first:
+      213: -4976008701175683912
+    second: Boss Yew Death-Sheet_35
+  - first:
+      213: 8064817477787407428
+    second: Boss Yew Death-Sheet_36
+  - first:
+      213: -8285367003254410496
+    second: Boss Yew Death-Sheet_37
+  - first:
+      213: 5845690876694254138
+    second: Boss Yew Death-Sheet_38
+  - first:
+      213: -7758699538858297721
+    second: Boss Yew Death-Sheet_39
+  - first:
+      213: 6855267051989925471
+    second: Boss Yew Death-Sheet_40
+  - first:
+      213: -255178183874295447
+    second: Boss Yew Death-Sheet_41
+  - first:
+      213: 7290166470056321200
+    second: Boss Yew Death-Sheet_42
+  - first:
+      213: -5734923576277704347
+    second: Boss Yew Death-Sheet_43
+  - first:
+      213: -845819860315297107
+    second: Boss Yew Death-Sheet_44
+  - first:
+      213: -795214605086950903
+    second: Boss Yew Death-Sheet_45
+  - first:
+      213: -8024982876680789768
+    second: Boss Yew Death-Sheet_46
+  - first:
+      213: -5085420034685741539
+    second: Boss Yew Death-Sheet_47
+  - first:
+      213: -5403280974266813741
+    second: Boss Yew Death-Sheet_48
+  - first:
+      213: -317349786726338224
+    second: Boss Yew Death-Sheet_49
+  - first:
+      213: -1673283898538874819
+    second: Boss Yew Death-Sheet_50
+  - first:
+      213: 2557989931992852133
+    second: Boss Yew Death-Sheet_51
+  - first:
+      213: -2639067418736285297
+    second: Boss Yew Death-Sheet_52
+  - first:
+      213: 564285100013840521
+    second: Boss Yew Death-Sheet_53
+  - first:
+      213: 8962439436874127135
+    second: Boss Yew Death-Sheet_54
+  - first:
+      213: -3691448253848289348
+    second: Boss Yew Death-Sheet_55
+  - first:
+      213: -8152465394198503323
+    second: Boss Yew Death-Sheet_56
+  - first:
+      213: -9222625533985770468
+    second: Boss Yew Death-Sheet_57
+  - first:
+      213: 370956436429469849
+    second: Boss Yew Death-Sheet_58
+  - first:
+      213: -7659395698737123355
+    second: Boss Yew Death-Sheet_59
+  - first:
+      213: -8343361210094029925
+    second: Boss Yew Death-Sheet_60
+  - first:
+      213: -6494779937679754363
+    second: Boss Yew Death-Sheet_61
+  - first:
+      213: -7102746488679882905
+    second: Boss Yew Death-Sheet_62
+  - first:
+      213: 6290657261835978976
+    second: Boss Yew Death-Sheet_63
+  - first:
+      213: 165249042672856051
+    second: Boss Yew Death-Sheet_64
+  - first:
+      213: 1934041664150818507
+    second: Boss Yew Death-Sheet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7a577e785005d70800000000000000
+      internalID: 9029723334139815882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9c7c163b49f4c60800000000000000
+      internalID: 7804620177416899066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd50918539a645170800000000000000
+      internalID: 8166269205400323549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c518e4d9d2cecd9e0800000000000000
+      internalID: -1595140487339146916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b36eb47ff5cebc20800000000000000
+      internalID: 3224232084209820597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9740552d6f6942ca0800000000000000
+      internalID: -6042538813189454727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e137182599fbf0800000000000000
+      internalID: -290036701568310903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab719ae16d1e482b0800000000000000
+      internalID: -5583089328278923334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d2ef37a14b69a20800000000000000
+      internalID: 3068838221807758598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Yew Death-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3cc261ac9d6444da78760fd6c62973
+      internalID: -1175075954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b8dd26f9316d1ef499c580c5012c6737
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss Yew Death-Sheet_0: 9029723334139815882
+      Boss Yew Death-Sheet_1: 7804620177416899066
+      Boss Yew Death-Sheet_2: 8166269205400323549
+      Boss Yew Death-Sheet_3: -1595140487339146916
+      Boss Yew Death-Sheet_4: 3224232084209820597
+      Boss Yew Death-Sheet_5: -6042538813189454727
+      Boss Yew Death-Sheet_6: -290036701568310903
+      Boss Yew Death-Sheet_7: -5583089328278923334
+      Boss Yew Death-Sheet_8: 3068838221807758598
+      Boss Yew Death-Sheet_9: -1175075954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

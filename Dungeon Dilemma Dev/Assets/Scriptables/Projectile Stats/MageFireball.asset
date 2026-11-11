@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c806a172becee47b42d42d1f763c5c, type: 3}
+  m_Name: MageFireball
+  m_EditorClassIdentifier: 
+  <ProjectileType>k__BackingField: MageFireball
+  FlightSpeed: 7
+  Size: 1
+  ProjectileUses: 1
+  Despawns: 1
+  DespawnTime: 3
+  IsExplosive: 1
+  ExplosionPrefab: {fileID: 7793538777477874005, guid: 5514796fc20efa8479b37b85d4b730c5, type: 3}

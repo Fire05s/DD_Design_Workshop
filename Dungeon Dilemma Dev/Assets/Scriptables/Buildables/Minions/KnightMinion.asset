@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7131d82865420af42a936fdfbbe09203, type: 3}
+  m_Name: KnightMinion
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Knight
+  <AbilityDescription>k__BackingField: A Melee Minion that attacks the nearest Challenger.
+  <FlavorText>k__BackingField: Wearing the armor of previously felled heroes, this
+    imitation of a knight is actually made of tough branches and flexible vines.
+  <Icon>k__BackingField: {fileID: 21300000, guid: 4bf96c38ded014344aacecb2b2d1d03d, type: 2}
+  <Cost>k__BackingField: 150
+  Health: 600
+  Power: 75
+  Cooldown: 0
+  MinionCap: 1
+  TrapCap: 0
+  PurchaseAmount: 5
+  Size: {x: 1, y: 1}
+  Prefab: {fileID: 4767767581315438241, guid: 3f76be82a128e1a47944b9fb47217573, type: 3}
+  TileOffset: {x: 0.5, y: 1}
+  direction: 0

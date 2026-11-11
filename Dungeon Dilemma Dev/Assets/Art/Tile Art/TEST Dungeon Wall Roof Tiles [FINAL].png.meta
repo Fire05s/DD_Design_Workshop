@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: c64b09944e8489941b745668d8f71537
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4420642612086383130
+    second: Dungeon Wall Roof Tiles [FINAL]_0
+  - first:
+      213: 7823861338016462840
+    second: Dungeon Wall Roof Tiles [FINAL]_1
+  - first:
+      213: -3500999042636774669
+    second: Dungeon Wall Roof Tiles [FINAL]_2
+  - first:
+      213: -7186097026530439210
+    second: Dungeon Wall Roof Tiles [FINAL]_3
+  - first:
+      213: -2892168383962817673
+    second: Dungeon Wall Roof Tiles [FINAL]_4
+  - first:
+      213: 5663483007159557584
+    second: Dungeon Wall Roof Tiles [FINAL]_5
+  - first:
+      213: -2046626917805408780
+    second: Dungeon Wall Roof Tiles [FINAL]_6
+  - first:
+      213: -2596888098559794940
+    second: Dungeon Wall Roof Tiles [FINAL]_7
+  - first:
+      213: -5698732567819200759
+    second: Dungeon Wall Roof Tiles [FINAL]_8
+  - first:
+      213: -1731092235346406897
+    second: Dungeon Wall Roof Tiles [FINAL]_9
+  - first:
+      213: 38691871930585256
+    second: Dungeon Wall Roof Tiles [FINAL]_10
+  - first:
+      213: 5550363335105865410
+    second: Dungeon Wall Roof Tiles [FINAL]_11
+  - first:
+      213: -6745942889650648928
+    second: Dungeon Wall Roof Tiles [FINAL]_12
+  - first:
+      213: 6334923311179072624
+    second: Dungeon Wall Roof Tiles [FINAL]_13
+  - first:
+      213: -7116743029307427523
+    second: Dungeon Wall Roof Tiles [FINAL]_14
+  - first:
+      213: -8126798544299029699
+    second: Dungeon Wall Roof Tiles [FINAL]_15
+  - first:
+      213: 2062838082196351243
+    second: Dungeon Wall Roof Tiles [FINAL]_16
+  - first:
+      213: 6911050062931228123
+    second: Dungeon Wall Roof Tiles [FINAL]_17
+  - first:
+      213: -3057993885553674339
+    second: Dungeon Wall Roof Tiles [FINAL]_18
+  - first:
+      213: -3498743155876751290
+    second: Dungeon Wall Roof Tiles [FINAL]_19
+  - first:
+      213: 8370501805584117483
+    second: Dungeon Wall Roof Tiles [FINAL]_20
+  - first:
+      213: -3397084987072422243
+    second: Dungeon Wall Roof Tiles [FINAL]_21
+  - first:
+      213: 6339259170743623361
+    second: Dungeon Wall Roof Tiles [FINAL]_22
+  - first:
+      213: -5278819371769891974
+    second: Dungeon Wall Roof Tiles [FINAL]_23
+  - first:
+      213: 3195826712075263798
+    second: Dungeon Wall Roof Tiles [FINAL]_24
+  - first:
+      213: -1786670496032855063
+    second: Dungeon Wall Roof Tiles [FINAL]_25
+  - first:
+      213: -6087377943620402833
+    second: Dungeon Wall Roof Tiles [FINAL]_26
+  - first:
+      213: -8475574952998894256
+    second: Dungeon Wall Roof Tiles [FINAL]_27
+  - first:
+      213: -8461736441448982086
+    second: Dungeon Wall Roof Tiles [FINAL]_28
+  - first:
+      213: -189205381585955013
+    second: Dungeon Wall Roof Tiles [FINAL]_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a122d5cb807495d30800000000000000
+      internalID: 4420642612086383130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f732603f60f39c60800000000000000
+      internalID: 7823861338016462840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f207a87be3f96fc0800000000000000
+      internalID: -3500999042636774669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df8924f3dad54c90800000000000000
+      internalID: -7186097026530439210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 171
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bd74b9d24fcd7d0800000000000000
+      internalID: -2892168383962817673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddd431e9cbb89e40800000000000000
+      internalID: 5663483007159557584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdb47869abe893e0800000000000000
+      internalID: -2046626917805408780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40167e3880006fbd0800000000000000
+      internalID: -2596888098559794940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 171
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907df293ce80ae0b0800000000000000
+      internalID: -5698732567819200759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 137
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f029dbe98cce9f7e0800000000000000
+      internalID: -1731092235346406897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a01e127d06798000800000000000000
+      internalID: 38691871930585256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66653db0ad60d40800000000000000
+      internalID: 5550363335105865410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a80d43fea89162a0800000000000000
+      internalID: -6745942889650648928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0748b2a003b2ae750800000000000000
+      internalID: 6334923311179072624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b464cbef3c3d90800000000000000
+      internalID: -7116743029307427523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b05e518cfc73f80800000000000000
+      internalID: -8126798544299029699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09267e6e4ca0ac10800000000000000
+      internalID: 2062838082196351243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f4f97a6bf8ef50800000000000000
+      internalID: 6911050062931228123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b14653c2df85d0800000000000000
+      internalID: -3057993885553674339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64813a903a7f17fc0800000000000000
+      internalID: -3498743155876751290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee6b991b0ff92470800000000000000
+      internalID: 8370501805584117483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e5cb9e3312bd0d0800000000000000
+      internalID: -3397084987072422243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce9f4301a299f750800000000000000
+      internalID: 6339259170743623361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a737430ffbdddb6b0800000000000000
+      internalID: -5278819371769891974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f53f0667bd95c20800000000000000
+      internalID: 3195826712075263798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb6a4966a87437e0800000000000000
+      internalID: -1786670496032855063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6145f8330a458ba0800000000000000
+      internalID: -6087377943620402833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0558d4b5c75b06a80800000000000000
+      internalID: -8475574952998894256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab99478e98fd19a80800000000000000
+      internalID: -8461736441448982086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Wall Roof Tiles [FINAL]_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b371af835becf5df0800000000000000
+      internalID: -189205381585955013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dungeon Wall Roof Tiles [FINAL]_0: 4420642612086383130
+      Dungeon Wall Roof Tiles [FINAL]_1: 7823861338016462840
+      Dungeon Wall Roof Tiles [FINAL]_10: 38691871930585256
+      Dungeon Wall Roof Tiles [FINAL]_11: 5550363335105865410
+      Dungeon Wall Roof Tiles [FINAL]_12: -6745942889650648928
+      Dungeon Wall Roof Tiles [FINAL]_13: 6334923311179072624
+      Dungeon Wall Roof Tiles [FINAL]_14: -7116743029307427523
+      Dungeon Wall Roof Tiles [FINAL]_15: -8126798544299029699
+      Dungeon Wall Roof Tiles [FINAL]_16: 2062838082196351243
+      Dungeon Wall Roof Tiles [FINAL]_17: 6911050062931228123
+      Dungeon Wall Roof Tiles [FINAL]_18: -3057993885553674339
+      Dungeon Wall Roof Tiles [FINAL]_19: -3498743155876751290
+      Dungeon Wall Roof Tiles [FINAL]_2: -3500999042636774669
+      Dungeon Wall Roof Tiles [FINAL]_20: 8370501805584117483
+      Dungeon Wall Roof Tiles [FINAL]_21: -3397084987072422243
+      Dungeon Wall Roof Tiles [FINAL]_22: 6339259170743623361
+      Dungeon Wall Roof Tiles [FINAL]_23: -5278819371769891974
+      Dungeon Wall Roof Tiles [FINAL]_24: 3195826712075263798
+      Dungeon Wall Roof Tiles [FINAL]_25: -1786670496032855063
+      Dungeon Wall Roof Tiles [FINAL]_26: -6087377943620402833
+      Dungeon Wall Roof Tiles [FINAL]_27: -8475574952998894256
+      Dungeon Wall Roof Tiles [FINAL]_28: -8461736441448982086
+      Dungeon Wall Roof Tiles [FINAL]_29: -189205381585955013
+      Dungeon Wall Roof Tiles [FINAL]_3: -7186097026530439210
+      Dungeon Wall Roof Tiles [FINAL]_4: -2892168383962817673
+      Dungeon Wall Roof Tiles [FINAL]_5: 5663483007159557584
+      Dungeon Wall Roof Tiles [FINAL]_6: -2046626917805408780
+      Dungeon Wall Roof Tiles [FINAL]_7: -2596888098559794940
+      Dungeon Wall Roof Tiles [FINAL]_8: -5698732567819200759
+      Dungeon Wall Roof Tiles [FINAL]_9: -1731092235346406897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

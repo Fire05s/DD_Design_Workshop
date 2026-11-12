@@ -15,16 +15,16 @@ MonoBehaviour:
   <Name>k__BackingField: Ruru
   <Icon>k__BackingField: {fileID: 21300000, guid: 6667bff6660efa54898e5052e6c8e7f5, type: 3}
   <DeadIcon>k__BackingField: {fileID: 21300000, guid: b7290ce6198c9ef4cb303172c2b12f64, type: 3}
-  <BasePower>k__BackingField: 150
+  <BasePower>k__BackingField: 50
   <BaseHealth>k__BackingField: 900
   <BaseArmor>k__BackingField: 0
   <PassiveRegen>k__BackingField: 5
   <BaseRevives>k__BackingField: 1
   <BaseResist>k__BackingField: 0
-  <Speed>k__BackingField: 5
+  <Speed>k__BackingField: 8
   <DashForce>k__BackingField: 8
   <Scale>k__BackingField: 1
-  <PrimaryAbilityCooldown>k__BackingField: 1.25
-  <SecondaryAbilityCooldown>k__BackingField: 10
+  <PrimaryAbilityCooldown>k__BackingField: 2
+  <SecondaryAbilityCooldown>k__BackingField: 60
   <DashCooldown>k__BackingField: 5
   <AttackRadius>k__BackingField: 2

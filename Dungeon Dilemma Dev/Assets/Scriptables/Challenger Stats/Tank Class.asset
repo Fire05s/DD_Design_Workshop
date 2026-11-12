@@ -15,16 +15,16 @@ MonoBehaviour:
   <Name>k__BackingField: Amber
   <Icon>k__BackingField: {fileID: 21300000, guid: 50824591a6888df478a03e89522c2ab0, type: 3}
   <DeadIcon>k__BackingField: {fileID: 21300000, guid: 99e9f5553a5678d4b88b169617ec3407, type: 3}
-  <BasePower>k__BackingField: 250
-  <BaseHealth>k__BackingField: 1000
+  <BasePower>k__BackingField: 50
+  <BaseHealth>k__BackingField: 700
   <BaseArmor>k__BackingField: 0
-  <PassiveRegen>k__BackingField: 5
+  <PassiveRegen>k__BackingField: 15
   <BaseRevives>k__BackingField: 1
-  <BaseResist>k__BackingField: 25
-  <Speed>k__BackingField: 5
+  <BaseResist>k__BackingField: 100
+  <Speed>k__BackingField: 3
   <DashForce>k__BackingField: 8
   <Scale>k__BackingField: 1
-  <PrimaryAbilityCooldown>k__BackingField: 1.25
+  <PrimaryAbilityCooldown>k__BackingField: 4
   <SecondaryAbilityCooldown>k__BackingField: 30
   <DashCooldown>k__BackingField: 5
   <AttackRadius>k__BackingField: 2

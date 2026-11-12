@@ -116,7 +116,7 @@ MonoBehaviour:
   - Enemy
   _subAttack: {fileID: 0}
   _attackType: 0
-  _damageMultiplier: 1
+  _damageMultiplier: 0.75
   _attackSpeed: 0.3
   _attackDelay: 0
   _playerCamera: {fileID: 4999108065188848817}
@@ -323,7 +323,7 @@ MonoBehaviour:
   _dashDuration: 0.5
   MaximumDashes: 1
   DashesLeft: 0
-  _powerScaling: 0.25
+  _powerScaling: 1
   _allyCheckRadius: 2
   _allyTag: Challenger
   _armorCollider: {fileID: 471529059886511847}
@@ -6166,7 +6166,7 @@ MonoBehaviour:
   _healthHandler: {fileID: 1699035207729414607}
   _attackType: 1
   _armTime: 0.5
-  _unarmTime: 0.5
+  _unarmTime: 2
 --- !u!1 &9025698673195561724
 GameObject:
   m_ObjectHideFlags: 0

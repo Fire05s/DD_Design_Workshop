@@ -18,13 +18,13 @@ MonoBehaviour:
   <BasePower>k__BackingField: 150
   <BaseHealth>k__BackingField: 1000
   <BaseArmor>k__BackingField: 0
-  <PassiveRegen>k__BackingField: 5
+  <PassiveRegen>k__BackingField: 0
   <BaseRevives>k__BackingField: 1
   <BaseResist>k__BackingField: 15
   <Speed>k__BackingField: 7
   <DashForce>k__BackingField: 8
   <Scale>k__BackingField: 1
-  <PrimaryAbilityCooldown>k__BackingField: 1
+  <PrimaryAbilityCooldown>k__BackingField: 2
   <SecondaryAbilityCooldown>k__BackingField: 30
-  <DashCooldown>k__BackingField: 2
+  <DashCooldown>k__BackingField: 4
   <AttackRadius>k__BackingField: 2

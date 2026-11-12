@@ -5202,7 +5202,7 @@ MonoBehaviour:
   _subAttack: {fileID: 0}
   _subAttackDelay: 0
   _attackType: 0
-  _damageMultiplier: 1.25
+  _damageMultiplier: 3
   _attackSpeed: 0.3
   _attackWarningTime: 0.2
   _attackDelayTime: 0
@@ -5327,7 +5327,7 @@ MonoBehaviour:
   _enemyTags:
   - Enemy
   - Boss
-  _damageMultiplier: 0.5
+  _damageMultiplier: 1
 --- !u!1 &4136018451623566512
 GameObject:
   m_ObjectHideFlags: 0
@@ -5452,7 +5452,7 @@ MonoBehaviour:
   _subAttack: {fileID: 0}
   _subAttackDelay: 0
   _attackType: 0
-  _damageMultiplier: 1.5
+  _damageMultiplier: 3
   _attackSpeed: 0.3
   _projectileData: {fileID: 11400000, guid: 673c09e55f65b15479974d45efc3f328, type: 2}
   _projectilePrefab: {fileID: 305504715547645624, guid: 410d5103460a0f84288d10a111dc4e4e, type: 3}

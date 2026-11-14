@@ -21,7 +21,7 @@ MonoBehaviour:
   <PassiveRegen>k__BackingField: 0
   <BaseRevives>k__BackingField: 0
   <BaseResist>k__BackingField: 50
-  <Speed>k__BackingField: 5
+  <Speed>k__BackingField: 6
   <DashForce>k__BackingField: 10
   <Scale>k__BackingField: 1
   <PrimaryAbilityCooldown>k__BackingField: 2

@@ -5452,7 +5452,7 @@ MonoBehaviour:
   _subAttack: {fileID: 0}
   _subAttackDelay: 0
   _attackType: 0
-  _damageMultiplier: 3
+  _damageMultiplier: 1.75
   _attackSpeed: 0.3
   _projectileData: {fileID: 11400000, guid: 673c09e55f65b15479974d45efc3f328, type: 2}
   _projectilePrefab: {fileID: 305504715547645624, guid: 410d5103460a0f84288d10a111dc4e4e, type: 3}

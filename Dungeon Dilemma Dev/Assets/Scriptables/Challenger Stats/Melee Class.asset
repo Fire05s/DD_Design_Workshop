@@ -15,8 +15,8 @@ MonoBehaviour:
   <Name>k__BackingField: Yarrow
   <Icon>k__BackingField: {fileID: 21300000, guid: 25f329c63cc8adf40af5fa95dc5b95eb, type: 3}
   <DeadIcon>k__BackingField: {fileID: 21300000, guid: 2228cf6fa3c1aa74ba844d6064570125, type: 3}
-  <BasePower>k__BackingField: 150
-  <BaseHealth>k__BackingField: 1000
+  <BasePower>k__BackingField: 135
+  <BaseHealth>k__BackingField: 700
   <BaseArmor>k__BackingField: 0
   <PassiveRegen>k__BackingField: 0
   <BaseRevives>k__BackingField: 1
@@ -24,7 +24,7 @@ MonoBehaviour:
   <Speed>k__BackingField: 7
   <DashForce>k__BackingField: 8
   <Scale>k__BackingField: 1
-  <PrimaryAbilityCooldown>k__BackingField: 2
+  <PrimaryAbilityCooldown>k__BackingField: 0.8
   <SecondaryAbilityCooldown>k__BackingField: 30
   <DashCooldown>k__BackingField: 4
   <AttackRadius>k__BackingField: 2

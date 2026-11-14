@@ -6259,4 +6259,4 @@ MonoBehaviour:
   _movement: {fileID: 631400774444108644}
   _healthHandler: {fileID: 1699035207729414607}
   _attackType: 1
-  _chargeTime: 3
+  _chargeTime: 1.5
